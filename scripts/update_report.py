@@ -9,6 +9,9 @@ def fetch(sym):
     req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; MYM-Research/1.0)'})
     with urllib.request.urlopen(req,timeout=22) as response: content=response.read(6000000).decode('utf-8-sig')
     rows=list(csv.DictReader(io.StringIO(content)))
+        if len(rows)<51:
+        print('DATA DEBUG',sym,'rows=',len(rows),'response=',repr(content[:250]),file=sys.stderr)
+        raise ValueError(sym+': insufficient CSV rows
     vals=[]
     for row in rows:
         try:
