@@ -1,0 +1,9 @@
+{
+  "status": "pending",
+  "updated_at_utc": null,
+  "as_of": null,
+  "instruments": [],
+  "sectors": [],
+  "breadth": null,
+  "error": "Awaiting first scheduled data collection"
+}
