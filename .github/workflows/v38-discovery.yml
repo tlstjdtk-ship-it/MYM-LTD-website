@@ -1,8 +1,6 @@
 name: MYM V38 Discovery
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '40 23 * * 1-5'
 permissions:
   contents: write
 jobs:
@@ -14,7 +12,9 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install yfinance pandas requests lxml
-      - run: python scripts/scan_v38.py
+      - run: |
+          echo 'V38 private research paused: public repository cannot securely store watchlists.'
+          exit 1
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
