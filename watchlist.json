@@ -1,0 +1,78 @@
+{
+  "status": "ok",
+  "as_of": "2026-10-12",
+  "updated_at_utc": "2026-10-13T00:33+00:00",
+  "market_gate": "open",
+  "universe_count": 503,
+  "checked_count": 433,
+  "data_errors": 70,
+  "method": "V37 technical screen only; no news or portfolio execution; research, not trade advice",
+  "candidates": [
+    {
+      "symbol": "IVZ",
+      "name": "Invesco",
+      "score": 60,
+      "close": 29.26,
+      "rsi": 34.1,
+      "volume_ratio": 1.09,
+      "atr_stop": 27.68,
+      "reasons": [
+        "Above SMA200",
+        "Bollinger lower band",
+        "RSI <= 35"
+      ]
+    },
+    {
+      "symbol": "BNY",
+      "name": "BNY Mellon",
+      "score": 50,
+      "close": 142.85,
+      "rsi": 27.5,
+      "volume_ratio": 0.46,
+      "atr_stop": 137.44,
+      "reasons": [
+        "Above SMA200",
+        "RSI <= 35"
+      ]
+    },
+    {
+      "symbol": "INCY",
+      "name": "Incyte",
+      "score": 50,
+      "close": 111.36,
+      "rsi": 29.2,
+      "volume_ratio": 0.85,
+      "atr_stop": 104.96,
+      "reasons": [
+        "Above SMA200",
+        "RSI <= 35"
+      ]
+    },
+    {
+      "symbol": "GRMN",
+      "name": "Garmin",
+      "score": 50,
+      "close": 266.76,
+      "rsi": 34.7,
+      "volume_ratio": 0.65,
+      "atr_stop": 252.17,
+      "reasons": [
+        "Above SMA200",
+        "RSI <= 35"
+      ]
+    },
+    {
+      "symbol": "DOC",
+      "name": "Healthpeak Properties",
+      "score": 50,
+      "close": 18.95,
+      "rsi": 34.8,
+      "volume_ratio": 0.67,
+      "atr_stop": 18.14,
+      "reasons": [
+        "Above SMA200",
+        "RSI <= 35"
+      ]
+    }
+  ]
+}
