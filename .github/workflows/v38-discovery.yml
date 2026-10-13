@@ -1,6 +1,8 @@
 name: MYM V38 Discovery
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '40 23 * * 1-5'
 permissions:
   contents: write
 jobs:
