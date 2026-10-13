@@ -2,6 +2,7 @@
 """MYM V38 research-only scanner. No broker orders, Telegram, or portfolio changes."""
 import datetime as dt
 import json
+import io
 import pathlib
 import sys
 import time
@@ -17,7 +18,7 @@ def universe():
     url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
     response = requests.get(url, headers={"User-Agent": "MYM-LTD-Research/1.0 (market research)"}, timeout=25)
     response.raise_for_status()
-    table = pd.read_html(response.text)[0]
+    table = pd.read_html(io.StringIO(response.text), match="Symbol")[0]
     return {str(r["Symbol"]).replace(".", "-"): str(r["Security"]) for _, r in table.iterrows()}
 
 def frame(raw, symbol):
