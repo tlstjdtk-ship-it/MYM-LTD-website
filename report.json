@@ -1,133 +1,133 @@
 {
   "status": "ok",
-  "updated_at_utc": "2026-10-30 23:46",
-  "as_of": "2026-10-30",
+  "updated_at_utc": "2026-11-02 23:47",
+  "as_of": "2026-11-02",
   "instruments": [
     {
       "symbol": "SPY",
       "name": "S&P 500 ETF",
-      "close": 755.72,
-      "change_pct": -1.77,
+      "close": 752.1,
+      "change_pct": -0.48,
       "above_ma20": false,
       "above_ma50": false
     },
     {
       "symbol": "QQQ",
       "name": "Nasdaq 100 ETF",
-      "close": 690.49,
-      "change_pct": -3.47,
+      "close": 681.09,
+      "change_pct": -1.36,
       "above_ma20": false,
       "above_ma50": false
     },
     {
       "symbol": "DIA",
       "name": "Dow ETF",
-      "close": 517.13,
-      "change_pct": -1.07,
+      "close": 519.34,
+      "change_pct": 0.43,
       "above_ma20": false,
       "above_ma50": false
     },
     {
       "symbol": "IWM",
       "name": "Russell 2000 ETF",
-      "close": 279.33,
-      "change_pct": -1.65,
+      "close": 279.14,
+      "change_pct": -0.07,
       "above_ma20": true,
       "above_ma50": false
     }
   ],
   "sectors": [
     {
-      "symbol": "XLE",
-      "name": "Energy",
-      "close": 70.02,
-      "change_pct": 1.91,
-      "above_ma20": true,
-      "above_ma50": true
-    },
-    {
-      "symbol": "XLP",
-      "name": "Consumer Staples",
-      "close": 89.42,
-      "change_pct": 1.41,
-      "above_ma20": true,
-      "above_ma50": true
-    },
-    {
-      "symbol": "XLU",
-      "name": "Utilities",
-      "close": 43.43,
-      "change_pct": 0.67,
-      "above_ma20": true,
-      "above_ma50": true
-    },
-    {
-      "symbol": "XLV",
-      "name": "Health Care",
-      "close": 184.87,
-      "change_pct": 0.45,
-      "above_ma20": true,
-      "above_ma50": true
-    },
-    {
-      "symbol": "XLB",
-      "name": "Materials",
-      "close": 52.74,
-      "change_pct": 0.4,
-      "above_ma20": true,
-      "above_ma50": true
-    },
-    {
-      "symbol": "XLRE",
-      "name": "Real Estate",
-      "close": 43.17,
-      "change_pct": 0.26,
-      "above_ma20": true,
-      "above_ma50": true
-    },
-    {
       "symbol": "XLY",
       "name": "Consumer Discretionary",
-      "close": 115.38,
-      "change_pct": -0.71,
+      "close": 118.16,
+      "change_pct": 2.41,
       "above_ma20": true,
       "above_ma50": true
     },
     {
       "symbol": "XLF",
       "name": "Financials",
-      "close": 56.51,
-      "change_pct": -0.76,
+      "close": 57.56,
+      "change_pct": 1.86,
+      "above_ma20": true,
+      "above_ma50": true
+    },
+    {
+      "symbol": "XLB",
+      "name": "Materials",
+      "close": 53.67,
+      "change_pct": 1.76,
+      "above_ma20": true,
+      "above_ma50": true
+    },
+    {
+      "symbol": "XLP",
+      "name": "Consumer Staples",
+      "close": 90.83,
+      "change_pct": 1.58,
+      "above_ma20": true,
+      "above_ma50": true
+    },
+    {
+      "symbol": "XLI",
+      "name": "Industrials",
+      "close": 169.71,
+      "change_pct": 1.38,
+      "above_ma20": true,
+      "above_ma50": false
+    },
+    {
+      "symbol": "XLRE",
+      "name": "Real Estate",
+      "close": 43.64,
+      "change_pct": 1.09,
+      "above_ma20": true,
+      "above_ma50": true
+    },
+    {
+      "symbol": "XLU",
+      "name": "Utilities",
+      "close": 43.67,
+      "change_pct": 0.55,
       "above_ma20": true,
       "above_ma50": true
     },
     {
       "symbol": "XLC",
       "name": "Communication Services",
-      "close": 99.9,
-      "change_pct": -1.29,
+      "close": 100.26,
+      "change_pct": 0.36,
       "above_ma20": false,
       "above_ma50": false
     },
     {
-      "symbol": "XLI",
-      "name": "Industrials",
-      "close": 167.4,
-      "change_pct": -1.6,
-      "above_ma20": false,
-      "above_ma50": false
+      "symbol": "XLV",
+      "name": "Health Care",
+      "close": 184.6,
+      "change_pct": -0.15,
+      "above_ma20": true,
+      "above_ma50": true
     },
     {
       "symbol": "XLK",
       "name": "Technology",
-      "close": 179.51,
-      "change_pct": -4.89,
+      "close": 174.22,
+      "change_pct": -2.95,
       "above_ma20": false,
       "above_ma50": false
+    },
+    {
+      "symbol": "XLE",
+      "name": "Energy",
+      "close": 67.25,
+      "change_pct": -3.96,
+      "above_ma20": false,
+      "above_ma50": true
     }
   ],
   "trend_count": 1,
-  "breadth": 6,
+  "breadth": 8,
   "source": "Yahoo Finance daily ETF chart data",
   "method": "Daily return, SMA20, SMA50; ETF proxies"
 }
