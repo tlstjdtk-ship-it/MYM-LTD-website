@@ -1,0 +1,33 @@
+name: MYM Global News Feed
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7,37 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: mym-global-news
+  cancel-in-progress: false
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Collect current article metadata
+        run: python3 scripts/update_news.py
+      - name: Commit updated public news feed
+        run: |
+          if [ ! -f news-feed.json ]; then
+            echo "Feed unavailable; preserving existing content."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news-feed.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh global market news headlines"
+            git push
+          fi
