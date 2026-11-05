@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-05T04:56:02.664435Z",
+  "updated_at_utc": "2026-11-05T05:56:42.689149Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
@@ -8,7 +8,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T01:11:26Z",
       "image": null,
-      "score": 35.53
+      "score": 35.41
     },
     {
       "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
@@ -16,7 +16,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-05T01:05:00Z",
       "image": "https://images.mktw.net/im-833362",
-      "score": 35.52
+      "score": 35.39
     },
     {
       "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
@@ -24,7 +24,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T23:38:11Z",
       "image": null,
-      "score": 35.34
+      "score": 35.21
     },
     {
       "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
@@ -32,7 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T23:17:56Z",
       "image": null,
-      "score": 35.3
+      "score": 35.17
     },
     {
       "title": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
@@ -40,7 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T23:18:56Z",
       "image": null,
-      "score": 35.3
+      "score": 35.17
     },
     {
       "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
@@ -48,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T23:02:39Z",
       "image": null,
-      "score": 35.26
+      "score": 35.14
     },
     {
       "title": "Palantir sinks after earnings as analysts point to slowdown in total contract value",
@@ -56,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T21:23:58Z",
       "image": null,
-      "score": 32.06
+      "score": 31.93
     },
     {
       "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
@@ -64,7 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T03:53:18Z",
       "image": null,
-      "score": 15.87
+      "score": 15.74
     },
     {
       "title": "Qualcomm’s stock falls as twin forces pressure sales",
@@ -72,7 +72,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-05T01:06:00Z",
       "image": "https://images.mktw.net/im-775631",
-      "score": 15.52
+      "score": 15.39
     },
     {
       "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
@@ -80,7 +80,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-05T01:03:00Z",
       "image": "https://images.mktw.net/im-97979674",
-      "score": 15.51
+      "score": 15.39
     },
     {
       "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
@@ -88,7 +88,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-04T21:55:00Z",
       "image": "https://images.mktw.net/im-18553565",
-      "score": 15.12
+      "score": 15.0
     },
     {
       "title": "Every stock that moved because of the election",
@@ -96,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T21:48:51Z",
       "image": null,
-      "score": 15.11
+      "score": 14.98
     },
     {
       "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
@@ -104,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T20:14:52Z",
       "image": null,
-      "score": 14.91
+      "score": 14.79
     },
     {
       "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
@@ -112,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T19:37:43Z",
       "image": null,
-      "score": 14.84
+      "score": 14.71
     },
     {
       "title": "Google responds to political backlash over removing search from schools that ban AI",
@@ -120,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T18:13:10Z",
       "image": null,
-      "score": 14.66
+      "score": 14.53
     },
     {
       "title": "Jim Cramer says this bank stock is a buy after its post-election pullback",
@@ -128,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T16:54:39Z",
       "image": null,
-      "score": 14.5
+      "score": 14.37
     },
     {
       "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
@@ -136,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T16:30:32Z",
       "image": null,
-      "score": 14.45
+      "score": 14.32
     },
     {
       "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
@@ -144,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T13:53:54Z",
       "image": null,
-      "score": 14.12
+      "score": 13.99
     },
     {
       "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
@@ -152,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T12:51:00Z",
       "image": null,
-      "score": 13.99
+      "score": 13.86
     },
     {
       "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
@@ -160,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T23:58:09Z",
       "image": null,
-      "score": 12.38
+      "score": 12.25
     },
     {
       "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
@@ -168,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T23:37:07Z",
       "image": null,
-      "score": 12.34
+      "score": 12.21
     },
     {
       "title": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
@@ -176,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T22:35:24Z",
       "image": null,
-      "score": 12.21
+      "score": 12.08
     },
     {
       "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
@@ -184,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T20:27:21Z",
       "image": null,
-      "score": 11.94
+      "score": 11.81
     },
     {
       "title": "Binance breach puts custody at center of crypto infrastructure trade",
@@ -192,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T20:13:37Z",
       "image": null,
-      "score": 11.91
+      "score": 11.79
     },
     {
       "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
@@ -200,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T20:10:41Z",
       "image": null,
-      "score": 11.91
+      "score": 11.78
     },
     {
       "title": "Jim Cramer likes CrowdStrike's new 'AI kill switch' and the cyber stock",
@@ -208,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T19:16:46Z",
       "image": null,
-      "score": 11.79
+      "score": 11.67
     },
     {
       "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
@@ -216,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T18:40:37Z",
       "image": null,
-      "score": 11.72
+      "score": 11.59
     },
     {
       "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
@@ -224,7 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T18:33:49Z",
       "image": null,
-      "score": 11.7
+      "score": 11.58
     },
     {
       "title": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
@@ -232,7 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T13:01:23Z",
       "image": null,
-      "score": 11.01
+      "score": 10.88
     },
     {
       "title": "Apple margin outlook pressures tech as reported U.S. strike lifts oil",
@@ -240,7 +240,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T11:30:03Z",
       "image": null,
-      "score": 10.82
+      "score": 10.69
     }
   ]
 }
