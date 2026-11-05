@@ -1,6 +1,11 @@
 name: MYM Global News Feed
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/global-news.yml'
+      - 'scripts/update_news.py'
   schedule:
     - cron: '7,37 * * * *'
 permissions:
