@@ -1,14 +1,30 @@
 {
-  "updated_at_utc": "2026-11-05T13:46:32.219763Z",
+  "updated_at_utc": "2026-11-05T14:54:31.140749Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+      "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+      "source": "CNBC",
+      "published_at": "2026-11-05T14:38:28Z",
+      "image": null,
+      "score": 35.97
+    },
+    {
+      "title": "Banks are turning cautious on lending, according to the Fed. What it means for the economy",
+      "url": "https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html",
+      "source": "CNBC",
+      "published_at": "2026-11-05T13:52:38Z",
+      "image": null,
+      "score": 35.87
+    },
     {
       "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
       "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
       "source": "CNBC",
       "published_at": "2026-11-05T13:44:27Z",
       "image": null,
-      "score": 36.0
+      "score": 35.85
     },
     {
       "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
@@ -16,7 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T13:34:14Z",
       "image": null,
-      "score": 35.97
+      "score": 35.83
     },
     {
       "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
@@ -24,7 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T12:37:57Z",
       "image": null,
-      "score": 35.86
+      "score": 35.72
     },
     {
       "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
@@ -32,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T01:11:26Z",
       "image": null,
-      "score": 34.43
+      "score": 34.29
     },
     {
       "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
@@ -40,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T23:38:11Z",
       "image": null,
-      "score": 34.23
+      "score": 34.09
     },
     {
       "title": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
@@ -48,7 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T23:18:56Z",
       "image": null,
-      "score": 34.19
+      "score": 34.05
     },
     {
       "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
@@ -56,15 +72,47 @@
       "source": "CNBC",
       "published_at": "2026-11-04T23:02:39Z",
       "image": null,
-      "score": 34.16
+      "score": 34.02
+    },
+    {
+      "title": "This is the secret sauce for the economy — and it’s showing up in faster U.S. growth",
+      "url": "https://www.marketwatch.com/story/this-is-the-secret-sauce-for-the-economy-and-its-showing-up-in-faster-u-s-growth-fb78ce21?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-05T14:49:00Z",
+      "image": "https://images.mktw.net/im-685053",
+      "score": 15.99
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "url": "https://www.cnbc.com/investingclub/2026/11/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source": "CNBC",
+      "published_at": "2026-11-05T14:39:12Z",
+      "image": null,
+      "score": 15.97
+    },
+    {
+      "title": "Here's what the Democratic election rout could mean for the U.S. economy",
+      "url": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
+      "source": "CNBC",
+      "published_at": "2026-11-05T14:33:32Z",
+      "image": null,
+      "score": 15.96
     },
     {
       "title": "World's largest olive oil company plummets 20% after rivals agree to takeover deal",
       "url": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
       "source": "CNBC",
-      "published_at": "2026-11-05T13:45:49Z",
+      "published_at": "2026-11-05T14:25:23Z",
       "image": null,
-      "score": 16.0
+      "score": 15.94
+    },
+    {
+      "title": "Qualcomm’s stock falls as twin forces pressure sales",
+      "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-05T13:47:00Z",
+      "image": "https://images.mktw.net/im-775631",
+      "score": 15.86
     },
     {
       "title": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
@@ -72,7 +120,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-05T13:07:00Z",
       "image": "https://images.mktw.net/im-77808724",
-      "score": 15.92
+      "score": 15.78
     },
     {
       "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
@@ -80,15 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T13:00:01Z",
       "image": null,
-      "score": 15.9
-    },
-    {
-      "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-      "url": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
-      "source": "CNBC",
-      "published_at": "2026-11-05T12:53:14Z",
-      "image": null,
-      "score": 15.89
+      "score": 15.76
     },
     {
       "title": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
@@ -96,15 +136,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-05T12:33:00Z",
       "image": "https://images.mktw.net/im-54466110",
-      "score": 15.85
-    },
-    {
-      "title": "An Anthropic IPO when the AI trade is this turbulent? Godspeed!",
-      "url": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-05T12:16:00Z",
-      "image": "https://images.mktw.net/im-23855360",
-      "score": 15.81
+      "score": 15.71
     },
     {
       "title": "How the midterms could fuel the K-shaped AI trade",
@@ -112,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T11:01:39Z",
       "image": null,
-      "score": 15.66
+      "score": 15.51
     },
     {
       "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
@@ -120,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T03:53:18Z",
       "image": null,
-      "score": 14.76
+      "score": 14.62
     },
     {
       "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
@@ -128,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T19:37:43Z",
       "image": null,
-      "score": 13.73
+      "score": 13.59
     },
     {
       "title": "Google responds to political backlash over removing search from schools that ban AI",
@@ -136,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T18:13:10Z",
       "image": null,
-      "score": 13.56
+      "score": 13.41
     },
     {
       "title": "Jim Cramer says this bank stock is a buy after its post-election pullback",
@@ -144,15 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T16:54:39Z",
       "image": null,
-      "score": 13.39
-    },
-    {
-      "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-      "url": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
-      "source": "CNBC",
-      "published_at": "2026-11-04T16:30:32Z",
-      "image": null,
-      "score": 13.34
+      "score": 13.25
     },
     {
       "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
@@ -160,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-04T13:53:54Z",
       "image": null,
-      "score": 13.02
+      "score": 12.87
     },
     {
       "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
@@ -168,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T23:58:09Z",
       "image": null,
-      "score": 11.27
+      "score": 11.13
     },
     {
       "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
@@ -176,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T23:37:07Z",
       "image": null,
-      "score": 11.23
+      "score": 11.09
     },
     {
       "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
@@ -184,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T20:27:21Z",
       "image": null,
-      "score": 10.84
+      "score": 10.69
     },
     {
       "title": "Binance breach puts custody at center of crypto infrastructure trade",
@@ -192,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T20:13:37Z",
       "image": null,
-      "score": 10.81
+      "score": 10.66
     },
     {
       "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
@@ -200,7 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T20:10:41Z",
       "image": null,
-      "score": 10.8
+      "score": 10.66
     },
     {
       "title": "Jim Cramer likes CrowdStrike's new 'AI kill switch' and the cyber stock",
@@ -208,15 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-03T19:16:46Z",
       "image": null,
-      "score": 10.69
-    },
-    {
-      "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
-      "url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
-      "source": "CNBC",
-      "published_at": "2026-11-03T18:33:49Z",
-      "image": null,
-      "score": 10.6
+      "score": 10.55
     },
     {
       "title": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
