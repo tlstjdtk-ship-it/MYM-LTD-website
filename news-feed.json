@@ -1,46 +1,254 @@
 {
-  "updated_at_utc": "2026-11-05T02:00:00Z",
-  "selection": "Initial verified editorial headlines; illustrative thematic imagery where publisher photos are not syndicated. Automatically replaced by the RSS collector.",
+  "updated_at_utc": "2026-11-05T03:02:53.921575Z",
+  "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
-      "title": "Oil and data centre stocks sink after US midterms",
-      "url": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-11-05/",
-      "source": "Reuters",
-      "published_at": "2026-11-05T01:00:00Z",
+      "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
+      "url": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+      "source": "CNBC",
+      "published_at": "2026-11-05T01:11:26Z",
       "image": null,
-      "score": 35
+      "score": 35.77
     },
     {
-      "title": "How major US stock indexes fared Wednesday, November 4, 2026",
-      "url": "https://apnews.com/article/c0be7ca45b5875abe758e0570cb9a265",
-      "source": "AP News",
-      "published_at": "2026-11-05T00:00:00Z",
-      "image": null,
-      "score": 34
-    },
-    {
-      "title": "US stocks rally after midterm elections, while AI-linked shares face pressure",
-      "url": "https://www.fidelity.com/news/article/us-markets/202611041600RTRSNEWSCOMBINED_L6N46L1CJ_1",
-      "source": "Reuters via Fidelity",
-      "published_at": "2026-11-04T21:00:00Z",
-      "image": null,
-      "score": 33
-    },
-    {
-      "title": "Jobs report could reshape expectations for Federal Reserve interest rates",
-      "url": "https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c",
+      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+      "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-05T01:00:00Z",
-      "image": null,
-      "score": 32
+      "published_at": "2026-11-05T01:05:00Z",
+      "image": "https://images.mktw.net/im-833362",
+      "score": 35.75
     },
     {
-      "title": "Stock market election news: AI stocks fade as Wall Street watches Congress",
-      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/",
-      "source": "Investor's Business Daily",
-      "published_at": "2026-11-05T00:00:00Z",
+      "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+      "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T23:38:11Z",
       "image": null,
-      "score": 31
+      "score": 35.57
+    },
+    {
+      "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+      "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T23:17:56Z",
+      "image": null,
+      "score": 35.53
+    },
+    {
+      "title": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
+      "url": "https://www.cnbc.com/2026/11/04/cramer-midterms-ai-stocks.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T23:18:56Z",
+      "image": null,
+      "score": 35.53
+    },
+    {
+      "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+      "url": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T23:02:39Z",
+      "image": null,
+      "score": 35.5
+    },
+    {
+      "title": "Palantir sinks after earnings as analysts point to slowdown in total contract value",
+      "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T21:23:58Z",
+      "image": null,
+      "score": 32.29
+    },
+    {
+      "title": "Qualcomm’s stock falls as twin forces pressure sales",
+      "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-05T01:06:00Z",
+      "image": "https://images.mktw.net/im-775631",
+      "score": 15.76
+    },
+    {
+      "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+      "url": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-05T01:03:00Z",
+      "image": "https://images.mktw.net/im-97979674",
+      "score": 15.75
+    },
+    {
+      "title": "A massive trade just happened in a leading mortgage lender",
+      "url": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T22:24:21Z",
+      "image": null,
+      "score": 15.42
+    },
+    {
+      "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-04T21:55:00Z",
+      "image": "https://images.mktw.net/im-18553565",
+      "score": 15.36
+    },
+    {
+      "title": "Every stock that moved because of the election",
+      "url": "https://www.cnbc.com/2026/11/04/every-stock-thats-moving-as-a-result-of-the-election.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T21:48:51Z",
+      "image": null,
+      "score": 15.35
+    },
+    {
+      "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+      "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T20:14:52Z",
+      "image": null,
+      "score": 15.15
+    },
+    {
+      "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+      "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T19:37:43Z",
+      "image": null,
+      "score": 15.07
+    },
+    {
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T18:13:10Z",
+      "image": null,
+      "score": 14.9
+    },
+    {
+      "title": "Jim Cramer says this bank stock is a buy after its post-election pullback",
+      "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T16:54:39Z",
+      "image": null,
+      "score": 14.73
+    },
+    {
+      "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "url": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T16:30:32Z",
+      "image": null,
+      "score": 14.68
+    },
+    {
+      "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+      "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T13:53:54Z",
+      "image": null,
+      "score": 14.36
+    },
+    {
+      "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+      "url": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+      "source": "CNBC",
+      "published_at": "2026-11-04T12:51:00Z",
+      "image": null,
+      "score": 14.23
+    },
+    {
+      "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
+      "url": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T23:58:09Z",
+      "image": null,
+      "score": 12.62
+    },
+    {
+      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T23:37:07Z",
+      "image": null,
+      "score": 12.57
+    },
+    {
+      "title": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
+      "url": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T22:35:24Z",
+      "image": null,
+      "score": 12.44
+    },
+    {
+      "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+      "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T20:27:21Z",
+      "image": null,
+      "score": 12.18
+    },
+    {
+      "title": "Binance breach puts custody at center of crypto infrastructure trade",
+      "url": "https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T20:13:37Z",
+      "image": null,
+      "score": 12.15
+    },
+    {
+      "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
+      "url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T20:10:41Z",
+      "image": null,
+      "score": 12.14
+    },
+    {
+      "title": "Jim Cramer likes CrowdStrike's new 'AI kill switch' and the cyber stock",
+      "url": "https://www.cnbc.com/investingclub/2026/11/03/jim-cramer-likes-crowdstrikes-new-ai-kill-switch-and-the-cyber-stock.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T19:16:46Z",
+      "image": null,
+      "score": 12.03
+    },
+    {
+      "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T18:40:37Z",
+      "image": null,
+      "score": 11.95
+    },
+    {
+      "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+      "url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T18:33:49Z",
+      "image": null,
+      "score": 11.94
+    },
+    {
+      "title": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
+      "url": "https://www.cnbc.com/2026/11/03/santoli-ai-bull-market-needs-tech-stocks.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T13:01:23Z",
+      "image": null,
+      "score": 11.25
+    },
+    {
+      "title": "Apple margin outlook pressures tech as reported U.S. strike lifts oil",
+      "url": "https://www.cnbc.com/2026/11/03/apple-margin-oil-iran.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T11:30:03Z",
+      "image": null,
+      "score": 11.06
+    },
+    {
+      "title": "Brookfield plans for a $27 billion AI data center at UK power station",
+      "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+      "source": "CNBC",
+      "published_at": "2026-11-03T09:30:35Z",
+      "image": null,
+      "score": 10.81
     }
   ]
 }
