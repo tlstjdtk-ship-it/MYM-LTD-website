@@ -1,14 +1,22 @@
 {
-  "updated_at_utc": "2026-11-07T13:27:32.375564Z",
+  "updated_at_utc": "2026-11-07T14:15:55.255617Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
       "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
       "url": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
       "source": "CNBC",
-      "published_at": "2026-11-07T12:49:19Z",
+      "published_at": "2026-11-07T14:06:20Z",
       "image": null,
-      "score": 35.92
+      "score": 35.98
+    },
+    {
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "source": "CNBC",
+      "published_at": "2026-11-07T14:02:49Z",
+      "image": null,
+      "score": 35.97
     },
     {
       "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
@@ -16,7 +24,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T23:13:10Z",
       "image": null,
-      "score": 34.22
+      "score": 34.12
     },
     {
       "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
@@ -24,23 +32,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-06T21:24:00Z",
       "image": "https://images.mktw.net/im-78248485",
-      "score": 33.99
-    },
-    {
-      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "source": "CNBC",
-      "published_at": "2026-11-06T20:42:28Z",
-      "image": null,
-      "score": 33.91
-    },
-    {
-      "title": "Wall Street's fear gauge may be flashing a buy sign",
-      "url": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
-      "source": "CNBC",
-      "published_at": "2026-11-06T16:29:01Z",
-      "image": null,
-      "score": 33.38
+      "score": 33.89
     },
     {
       "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
@@ -48,7 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T11:06:58Z",
       "image": null,
-      "score": 32.71
+      "score": 32.61
     },
     {
       "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
@@ -56,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T10:28:25Z",
       "image": null,
-      "score": 32.63
+      "score": 32.53
     },
     {
       "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
@@ -64,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T21:16:39Z",
       "image": null,
-      "score": 30.98
+      "score": 30.88
     },
     {
       "title": "Jim Cramer says the AI trade is not going away as Nasdaq enters correction",
@@ -72,7 +64,23 @@
       "source": "CNBC",
       "published_at": "2026-11-05T18:46:23Z",
       "image": null,
-      "score": 30.66
+      "score": 30.56
+    },
+    {
+      "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+      "url": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+      "source": "CNBC",
+      "published_at": "2026-11-07T13:30:01Z",
+      "image": null,
+      "score": 15.9
+    },
+    {
+      "title": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time",
+      "url": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-07T13:30:00Z",
+      "image": "https://images.mktw.net/im-01320542",
+      "score": 15.9
     },
     {
       "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
@@ -80,7 +88,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T13:00:01Z",
       "image": null,
-      "score": 15.94
+      "score": 15.84
     },
     {
       "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
@@ -88,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T12:00:01Z",
       "image": null,
-      "score": 15.82
+      "score": 15.72
     },
     {
       "title": "SpaceX says Google exec Don Harrison has resigned from its board",
@@ -96,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T22:30:22Z",
       "image": null,
-      "score": 14.13
+      "score": 14.03
     },
     {
       "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
@@ -104,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T22:25:58Z",
       "image": null,
-      "score": 14.12
+      "score": 14.02
     },
     {
       "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
@@ -112,7 +120,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-06T20:58:00Z",
       "image": "https://images.mktw.net/im-84938354",
-      "score": 13.94
+      "score": 13.84
     },
     {
       "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
@@ -120,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T20:44:13Z",
       "image": null,
-      "score": 13.91
+      "score": 13.81
     },
     {
       "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
@@ -128,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T19:36:12Z",
       "image": null,
-      "score": 13.77
+      "score": 13.67
     },
     {
       "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
@@ -136,15 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T18:54:22Z",
       "image": null,
-      "score": 13.68
-    },
-    {
-      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-06T18:53:00Z",
-      "image": "https://images.mktw.net/im-97735735",
-      "score": 13.68
+      "score": 13.58
     },
     {
       "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
@@ -152,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T18:40:58Z",
       "image": null,
-      "score": 13.65
+      "score": 13.55
     },
     {
       "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
@@ -160,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T18:35:08Z",
       "image": null,
-      "score": 13.64
+      "score": 13.54
     },
     {
       "title": "AI crush is powering one stock to sky-high valuations",
@@ -168,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T18:15:44Z",
       "image": null,
-      "score": 13.6
+      "score": 13.5
     },
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
@@ -176,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T17:09:53Z",
       "image": null,
-      "score": 13.46
+      "score": 13.36
     },
     {
       "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
@@ -184,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T15:06:11Z",
       "image": null,
-      "score": 13.21
+      "score": 13.1
     },
     {
       "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
@@ -192,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T03:20:43Z",
       "image": null,
-      "score": 11.74
+      "score": 11.63
     },
     {
       "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
@@ -200,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T23:39:32Z",
       "image": null,
-      "score": 11.27
+      "score": 11.17
     },
     {
       "title": "Jim Cramer explains why no AI stock seems safe from the market carnage",
@@ -208,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T23:25:04Z",
       "image": null,
-      "score": 11.24
+      "score": 11.14
     },
     {
       "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
@@ -216,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T23:17:51Z",
       "image": null,
-      "score": 11.23
+      "score": 11.13
     },
     {
       "title": "CNBC's experts on whether the AI trade is ending and what investors should do next",
@@ -224,7 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-05T19:19:31Z",
       "image": null,
-      "score": 10.73
+      "score": 10.63
     },
     {
       "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
@@ -232,21 +232,13 @@
       "source": "CNBC",
       "published_at": "2026-11-05T18:52:21Z",
       "image": null,
-      "score": 10.68
+      "score": 10.58
     },
     {
       "title": "How the midterms could fuel the K-shaped AI trade",
       "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
       "source": "CNBC",
       "published_at": "2026-11-05T11:01:39Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
-      "url": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
-      "source": "CNBC",
-      "published_at": "2026-11-05T03:53:18Z",
       "image": null,
       "score": 10.0
     }
