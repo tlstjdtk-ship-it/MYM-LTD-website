@@ -1,14 +1,22 @@
 {
-  "updated_at_utc": "2026-11-08T19:40:58.258886Z",
+  "updated_at_utc": "2026-11-08T20:33:45.751941Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "Nvidia opens probe of CEO Huang being targeted by possible Chinese spy",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "source": "CNBC",
+      "published_at": "2026-11-08T20:17:19Z",
+      "image": null,
+      "score": 35.97
+    },
     {
       "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
       "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
       "source": "CNBC",
       "published_at": "2026-11-08T18:18:30Z",
       "image": null,
-      "score": 35.83
+      "score": 35.72
     },
     {
       "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
@@ -16,7 +24,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-08T15:00:00Z",
       "image": "https://images.mktw.net/im-547915",
-      "score": 35.41
+      "score": 35.3
     },
     {
       "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
@@ -24,7 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T11:47:24Z",
       "image": null,
-      "score": 35.01
+      "score": 34.9
     },
     {
       "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
@@ -32,7 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T15:23:46Z",
       "image": null,
-      "score": 32.46
+      "score": 32.35
     },
     {
       "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
@@ -40,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T14:06:20Z",
       "image": null,
-      "score": 32.3
+      "score": 32.19
     },
     {
       "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
@@ -48,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T23:13:10Z",
       "image": null,
-      "score": 30.44
+      "score": 30.33
     },
     {
       "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
@@ -72,7 +80,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T17:40:15Z",
       "image": null,
-      "score": 15.75
+      "score": 15.64
     },
     {
       "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
@@ -80,7 +88,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T14:14:11Z",
       "image": null,
-      "score": 15.32
+      "score": 15.21
     },
     {
       "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
@@ -88,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T13:00:01Z",
       "image": null,
-      "score": 15.16
+      "score": 15.05
     },
     {
       "title": "This market signal called the tech selloff. Now it’s sending another warning.",
@@ -96,7 +104,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-08T12:00:00Z",
       "image": "https://images.mktw.net/im-68677954",
-      "score": 15.04
+      "score": 14.93
     },
     {
       "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
@@ -104,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T06:00:01Z",
       "image": null,
-      "score": 14.29
+      "score": 14.18
     },
     {
       "title": "AI is speeding up recruitment — and putting agency fees under pressure",
@@ -112,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T06:00:01Z",
       "image": null,
-      "score": 14.29
+      "score": 14.18
     },
     {
       "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
@@ -120,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T22:01:17Z",
       "image": null,
-      "score": 13.29
+      "score": 13.18
     },
     {
       "title": "America's newest small business owners with no employees are off to a hot start in AI era",
@@ -128,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T14:45:01Z",
       "image": null,
-      "score": 12.38
+      "score": 12.27
     },
     {
       "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
@@ -136,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T13:30:01Z",
       "image": null,
-      "score": 12.23
+      "score": 12.12
     },
     {
       "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
@@ -144,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T13:00:01Z",
       "image": null,
-      "score": 12.16
+      "score": 12.05
     },
     {
       "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
@@ -152,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T12:00:01Z",
       "image": null,
-      "score": 12.04
+      "score": 11.93
     },
     {
       "title": "SpaceX says Google exec Don Harrison has resigned from its board",
@@ -160,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T22:30:22Z",
       "image": null,
-      "score": 10.35
+      "score": 10.24
     },
     {
       "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
@@ -168,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T22:25:58Z",
       "image": null,
-      "score": 10.34
+      "score": 10.23
     },
     {
       "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
@@ -176,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-06T20:44:13Z",
       "image": null,
-      "score": 10.13
+      "score": 10.02
     },
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
