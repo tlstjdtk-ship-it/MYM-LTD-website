@@ -1,14 +1,38 @@
 {
-  "updated_at_utc": "2026-11-09T22:17:00.673986Z",
+  "updated_at_utc": "2026-11-09T23:14:44.148896Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+      "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+      "source": "CNBC",
+      "published_at": "2026-11-09T23:05:53Z",
+      "image": null,
+      "score": 35.98
+    },
+    {
+      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+      "source": "CNBC",
+      "published_at": "2026-11-09T22:56:39Z",
+      "image": null,
+      "score": 35.96
+    },
+    {
+      "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+      "source": "CNBC",
+      "published_at": "2026-11-09T22:40:04Z",
+      "image": null,
+      "score": 35.93
+    },
     {
       "title": "As Nvidia probes Jensen Huang affair, here's the board member likely to play a big role",
       "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
       "source": "CNBC",
       "published_at": "2026-11-09T21:54:40Z",
       "image": null,
-      "score": 35.95
+      "score": 35.83
     },
     {
       "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
@@ -16,7 +40,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-09T21:55:00Z",
       "image": "https://images.mktw.net/im-03911341",
-      "score": 35.95
+      "score": 35.83
     },
     {
       "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
@@ -24,23 +48,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-09T21:43:00Z",
       "image": "https://images.mktw.net/im-27013574",
-      "score": 35.93
-    },
-    {
-      "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-      "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-      "source": "CNBC",
-      "published_at": "2026-11-09T21:27:54Z",
-      "image": null,
-      "score": 35.9
-    },
-    {
-      "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
-      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
-      "source": "CNBC",
-      "published_at": "2026-11-09T21:29:47Z",
-      "image": null,
-      "score": 35.9
+      "score": 35.81
     },
     {
       "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
@@ -48,7 +56,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-09T21:24:00Z",
       "image": "https://images.mktw.net/im-59679463",
-      "score": 35.89
+      "score": 35.77
     },
     {
       "title": "Why prediction markets and Wall Street pros so often fail to see what’s coming",
@@ -56,15 +64,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-09T21:14:00Z",
       "image": "https://images.mktw.net/im-22442261",
-      "score": 35.87
-    },
-    {
-      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-      "source": "CNBC",
-      "published_at": "2026-11-09T21:04:50Z",
-      "image": null,
-      "score": 35.85
+      "score": 35.75
     },
     {
       "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
@@ -72,7 +72,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T21:03:55Z",
       "image": null,
-      "score": 35.85
+      "score": 35.73
     },
     {
       "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy",
@@ -80,15 +80,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T21:04:19Z",
       "image": null,
-      "score": 35.85
-    },
-    {
-      "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
-      "url": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-09T21:01:00Z",
-      "image": "https://images.mktw.net/im-23543410",
-      "score": 35.84
+      "score": 35.73
     },
     {
       "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
@@ -96,7 +88,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T20:29:36Z",
       "image": null,
-      "score": 35.78
+      "score": 35.66
     },
     {
       "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
@@ -104,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T18:46:01Z",
       "image": null,
-      "score": 35.56
+      "score": 35.44
     },
     {
       "title": "A massive trade in Nvidia just went off – here are the details",
@@ -112,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T18:37:59Z",
       "image": null,
-      "score": 35.54
+      "score": 35.42
     },
     {
       "title": "Why Jim Cramer believes Nvidia is still valuable despite the CEO affair controversy",
@@ -120,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T17:09:44Z",
       "image": null,
-      "score": 35.36
+      "score": 35.24
     },
     {
       "title": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
@@ -128,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T15:57:38Z",
       "image": null,
-      "score": 35.21
+      "score": 35.09
     },
     {
       "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
@@ -136,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T15:51:40Z",
       "image": null,
-      "score": 35.2
+      "score": 35.08
     },
     {
       "title": "Weekend trading of Nvidia scandal shines light on new financial products",
@@ -144,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T15:31:32Z",
       "image": null,
-      "score": 35.16
+      "score": 35.03
     },
     {
       "title": "Nasdaq defies Nvidia impact as Huang faces espionage affair probe",
@@ -152,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T11:04:49Z",
       "image": null,
-      "score": 34.6
+      "score": 34.48
     },
     {
       "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
@@ -160,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T22:49:46Z",
       "image": null,
-      "score": 33.07
+      "score": 32.95
     },
     {
       "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
@@ -168,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T22:19:00Z",
       "image": null,
-      "score": 33.0
+      "score": 32.88
     },
     {
       "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
@@ -176,15 +168,15 @@
       "source": "CNBC",
       "published_at": "2026-11-08T11:47:24Z",
       "image": null,
-      "score": 31.69
+      "score": 31.57
     },
     {
-      "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
-      "url": "https://www.cnbc.com/2026/11/06/cramer-coreweave-nebius-earnings.html",
+      "title": "3 unexpected reasons the October jobs report was so strong",
+      "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
       "source": "CNBC",
-      "published_at": "2026-11-06T23:13:10Z",
+      "published_at": "2026-11-09T22:23:56Z",
       "image": null,
-      "score": 30.0
+      "score": 15.89
     },
     {
       "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
@@ -192,7 +184,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-09T21:52:00Z",
       "image": "https://images.mktw.net/im-13574872",
-      "score": 15.95
+      "score": 15.83
     },
     {
       "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
@@ -200,15 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T21:24:13Z",
       "image": null,
-      "score": 15.89
-    },
-    {
-      "title": "Analysts say these chip stocks are bargains. Is it time to buy?",
-      "url": "https://www.marketwatch.com/story/analysts-say-these-chip-stocks-are-bargains-is-it-time-to-buy-fb5fdde8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-09T20:48:00Z",
-      "image": "https://images.mktw.net/im-51837852",
-      "score": 15.81
+      "score": 15.77
     },
     {
       "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
@@ -216,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T20:41:38Z",
       "image": null,
-      "score": 15.8
+      "score": 15.68
     },
     {
       "title": "This beaten-down data center stock could be worth a look, says Mike Khouw",
@@ -224,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T19:23:57Z",
       "image": null,
-      "score": 15.64
+      "score": 15.52
     },
     {
       "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
@@ -232,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T18:59:43Z",
       "image": null,
-      "score": 15.59
+      "score": 15.47
     },
     {
       "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
@@ -240,7 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T18:14:47Z",
       "image": null,
-      "score": 15.5
+      "score": 15.38
     },
     {
       "title": "Jim Cramer says this is the stock to buy as data center development slows",
@@ -248,7 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T17:22:48Z",
       "image": null,
-      "score": 15.39
+      "score": 15.27
     },
     {
       "title": "America's newest small business owners with no employees are off to a hot start in AI era",
@@ -256,7 +240,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T14:39:47Z",
       "image": null,
-      "score": 15.05
+      "score": 14.93
     },
     {
       "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
@@ -264,7 +248,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T14:24:34Z",
       "image": null,
-      "score": 15.02
+      "score": 14.9
     },
     {
       "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
@@ -272,7 +256,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T14:14:11Z",
       "image": null,
-      "score": 11.99
+      "score": 11.87
     },
     {
       "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
@@ -280,7 +264,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T06:00:01Z",
       "image": null,
-      "score": 10.96
+      "score": 10.84
     },
     {
       "title": "AI is speeding up recruitment — and putting agency fees under pressure",
@@ -288,7 +272,23 @@
       "source": "CNBC",
       "published_at": "2026-11-08T06:00:01Z",
       "image": null,
-      "score": 10.96
+      "score": 10.84
+    },
+    {
+      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "source": "CNBC",
+      "published_at": "2026-11-07T22:01:17Z",
+      "image": null,
+      "score": 10.0
+    },
+    {
+      "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+      "url": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+      "source": "CNBC",
+      "published_at": "2026-11-07T13:30:01Z",
+      "image": null,
+      "score": 10.0
     }
   ]
 }
