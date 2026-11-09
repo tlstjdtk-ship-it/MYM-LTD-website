@@ -1,14 +1,22 @@
 {
-  "updated_at_utc": "2026-11-09T00:06:27.006884Z",
+  "updated_at_utc": "2026-11-09T01:04:20.954107Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-09T00:40:00Z",
+      "image": "https://images.mktw.net/im-21345539",
+      "score": 35.95
+    },
     {
       "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
       "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "published_at": "2026-11-08T23:05:00Z",
       "image": "https://images.mktw.net/im-62932554",
-      "score": 35.87
+      "score": 35.75
     },
     {
       "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
@@ -16,7 +24,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T22:53:57Z",
       "image": null,
-      "score": 35.85
+      "score": 35.73
     },
     {
       "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
@@ -24,7 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T22:49:46Z",
       "image": null,
-      "score": 35.84
+      "score": 35.72
     },
     {
       "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
@@ -32,7 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T22:19:00Z",
       "image": null,
-      "score": 35.78
+      "score": 35.66
     },
     {
       "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
@@ -40,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T11:47:24Z",
       "image": null,
-      "score": 34.46
+      "score": 34.34
     },
     {
       "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
@@ -48,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T15:23:46Z",
       "image": null,
-      "score": 31.91
+      "score": 31.79
     },
     {
       "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
@@ -56,7 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T14:06:20Z",
       "image": null,
-      "score": 31.75
+      "score": 31.63
     },
     {
       "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
@@ -75,12 +83,20 @@
       "score": 30.0
     },
     {
+      "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-09T00:30:00Z",
+      "image": "https://images.mktw.net/im-97735735",
+      "score": 15.93
+    },
+    {
       "title": "You follow the rules for smart stock trading. But are they the right rules?",
       "url": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "published_at": "2026-11-08T23:15:00Z",
       "image": "https://images.mktw.net/im-93264190",
-      "score": 15.89
+      "score": 15.77
     },
     {
       "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
@@ -88,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T17:40:15Z",
       "image": null,
-      "score": 15.2
+      "score": 15.07
     },
     {
       "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
@@ -96,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T14:14:11Z",
       "image": null,
-      "score": 14.77
+      "score": 14.65
     },
     {
       "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
@@ -104,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T13:00:01Z",
       "image": null,
-      "score": 14.61
+      "score": 14.49
     },
     {
       "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
@@ -112,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T06:00:01Z",
       "image": null,
-      "score": 13.74
+      "score": 13.62
     },
     {
       "title": "AI is speeding up recruitment — and putting agency fees under pressure",
@@ -120,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T06:00:01Z",
       "image": null,
-      "score": 13.74
+      "score": 13.62
     },
     {
       "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
@@ -128,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T22:01:17Z",
       "image": null,
-      "score": 12.74
+      "score": 12.62
     },
     {
       "title": "America's newest small business owners with no employees are off to a hot start in AI era",
@@ -136,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T14:45:01Z",
       "image": null,
-      "score": 11.83
+      "score": 11.71
     },
     {
       "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
@@ -144,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T13:30:01Z",
       "image": null,
-      "score": 11.67
+      "score": 11.55
     },
     {
       "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
@@ -152,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T13:00:01Z",
       "image": null,
-      "score": 11.61
+      "score": 11.49
     },
     {
       "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
@@ -160,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-07T12:00:01Z",
       "image": null,
-      "score": 11.49
+      "score": 11.37
     },
     {
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
