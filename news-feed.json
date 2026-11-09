@@ -1,14 +1,22 @@
 {
-  "updated_at_utc": "2026-11-09T16:35:46.950830Z",
+  "updated_at_utc": "2026-11-09T17:32:11.901018Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "There is no one at Nvidia who would be ready to replace Jensen Huang",
+      "url": "https://www.marketwatch.com/story/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jensen-huang-816cc405?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-09T17:21:00Z",
+      "image": "https://images.mktw.net/im-85819925",
+      "score": 35.98
+    },
     {
       "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
       "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
       "source": "CNBC",
-      "published_at": "2026-11-09T16:24:20Z",
+      "published_at": "2026-11-09T17:05:25Z",
       "image": null,
-      "score": 35.98
+      "score": 35.94
     },
     {
       "title": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
@@ -16,7 +24,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T15:57:38Z",
       "image": null,
-      "score": 35.92
+      "score": 35.8
     },
     {
       "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
@@ -24,7 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T15:51:40Z",
       "image": null,
-      "score": 35.91
+      "score": 35.79
     },
     {
       "title": "Weekend trading of Nvidia scandal shines light on new financial products",
@@ -32,7 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T15:31:32Z",
       "image": null,
-      "score": 35.87
+      "score": 35.75
     },
     {
       "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy",
@@ -40,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T15:03:03Z",
       "image": null,
-      "score": 35.81
+      "score": 35.69
     },
     {
       "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
@@ -48,15 +56,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-09T14:45:00Z",
       "image": "https://images.mktw.net/im-03911341",
-      "score": 35.77
-    },
-    {
-      "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-      "url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-09T13:36:00Z",
-      "image": "https://images.mktw.net/im-547915",
-      "score": 35.63
+      "score": 35.65
     },
     {
       "title": "Nasdaq defies Nvidia impact as Huang faces espionage affair probe",
@@ -64,7 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T11:04:49Z",
       "image": null,
-      "score": 35.31
+      "score": 35.19
     },
     {
       "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
@@ -72,7 +72,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T22:49:46Z",
       "image": null,
-      "score": 33.78
+      "score": 33.66
     },
     {
       "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
@@ -80,7 +80,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T22:19:00Z",
       "image": null,
-      "score": 33.72
+      "score": 33.6
     },
     {
       "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
@@ -88,7 +88,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T11:47:24Z",
       "image": null,
-      "score": 32.4
+      "score": 32.28
     },
     {
       "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
@@ -107,12 +107,20 @@
       "score": 30.0
     },
     {
+      "title": "Jim Cramer says this is the stock to buy as data center development slows",
+      "url": "https://www.cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html",
+      "source": "CNBC",
+      "published_at": "2026-11-09T17:22:48Z",
+      "image": null,
+      "score": 15.98
+    },
+    {
       "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
       "url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
       "source": "CNBC",
-      "published_at": "2026-11-09T16:35:00Z",
+      "published_at": "2026-11-09T16:39:12Z",
       "image": null,
-      "score": 16.0
+      "score": 15.89
     },
     {
       "title": "How SpaceX was able to avert one of the market’s biggest fears about its stock",
@@ -120,7 +128,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-09T15:35:00Z",
       "image": "https://images.mktw.net/im-63500950",
-      "score": 15.87
+      "score": 15.76
     },
     {
       "title": "America's newest small business owners with no employees are off to a hot start in AI era",
@@ -128,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T14:39:47Z",
       "image": null,
-      "score": 15.76
+      "score": 15.64
     },
     {
       "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
@@ -136,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T14:24:34Z",
       "image": null,
-      "score": 15.73
+      "score": 15.61
     },
     {
       "title": "Why tech workers are flocking to NYC",
@@ -144,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T14:15:02Z",
       "image": null,
-      "score": 15.71
+      "score": 15.59
     },
     {
       "title": "As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform",
@@ -152,15 +160,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-09T14:16:00Z",
       "image": "https://images.mktw.net/im-35644964",
-      "score": 15.71
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "url": "https://www.cnbc.com/investingclub/2026/11/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "source": "CNBC",
-      "published_at": "2026-11-09T14:11:35Z",
-      "image": null,
-      "score": 15.7
+      "score": 15.59
     },
     {
       "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
@@ -168,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T14:14:11Z",
       "image": null,
-      "score": 12.71
+      "score": 12.59
     },
     {
       "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
@@ -176,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T06:00:01Z",
       "image": null,
-      "score": 11.68
+      "score": 11.56
     },
     {
       "title": "AI is speeding up recruitment — and putting agency fees under pressure",
@@ -184,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T06:00:01Z",
       "image": null,
-      "score": 11.68
+      "score": 11.56
     },
     {
       "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
@@ -192,21 +192,13 @@
       "source": "CNBC",
       "published_at": "2026-11-07T22:01:17Z",
       "image": null,
-      "score": 10.68
+      "score": 10.56
     },
     {
       "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
       "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
       "source": "CNBC",
       "published_at": "2026-11-07T13:00:01Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "source": "CNBC",
-      "published_at": "2026-11-06T17:09:53Z",
       "image": null,
       "score": 10.0
     },
