@@ -1,28 +1,44 @@
 {
-  "updated_at_utc": "2026-11-10T19:50:30.699529Z",
+  "updated_at_utc": "2026-11-10T20:42:17.198456Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
-      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T19:49:30Z",
-      "image": null,
-      "score": 36.0
+      "title": "Nvidia could soon face tougher export rules, making it harder to sell chips to China",
+      "url": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-10T20:37:00Z",
+      "image": "https://images.mktw.net/im-54690673",
+      "score": 35.99
     },
     {
-      "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
-      "url": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
+      "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
       "source": "CNBC",
-      "published_at": "2026-11-10T19:40:41Z",
+      "published_at": "2026-11-10T20:33:52Z",
       "image": null,
       "score": 35.98
     },
     {
-      "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-      "url": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
+      "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
+      "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
       "source": "CNBC",
-      "published_at": "2026-11-10T19:30:12Z",
+      "published_at": "2026-11-10T20:33:58Z",
+      "image": null,
+      "score": 35.98
+    },
+    {
+      "title": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
+      "url": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-10T20:27:00Z",
+      "image": "https://images.mktw.net/im-36448246",
+      "score": 35.97
+    },
+    {
+      "title": "Nvidia board member Stephen Neal could play big role in probe of CEO Jensen Huang",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+      "source": "CNBC",
+      "published_at": "2026-11-10T20:22:57Z",
       "image": null,
       "score": 35.96
     },
@@ -30,9 +46,33 @@
       "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
       "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
       "source": "CNBC",
-      "published_at": "2026-11-10T19:26:30Z",
+      "published_at": "2026-11-10T20:01:18Z",
       "image": null,
-      "score": 35.95
+      "score": 35.91
+    },
+    {
+      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "source": "CNBC",
+      "published_at": "2026-11-10T19:51:08Z",
+      "image": null,
+      "score": 35.89
+    },
+    {
+      "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
+      "source": "CNBC",
+      "published_at": "2026-11-10T19:40:41Z",
+      "image": null,
+      "score": 35.87
+    },
+    {
+      "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
+      "url": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
+      "source": "CNBC",
+      "published_at": "2026-11-10T19:30:12Z",
+      "image": null,
+      "score": 35.85
     },
     {
       "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
@@ -40,31 +80,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-10T19:17:00Z",
       "image": "https://images.mktw.net/im-86112590",
-      "score": 35.93
-    },
-    {
-      "title": "Nvidia board member Stephen Neal could play big role in probe of CEO Jensen Huang",
-      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T19:02:16Z",
-      "image": null,
-      "score": 35.9
-    },
-    {
-      "title": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
-      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T18:22:44Z",
-      "image": null,
       "score": 35.82
-    },
-    {
-      "title": "Even Wall Street’s lone Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
-      "url": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-10T18:16:00Z",
-      "image": "https://images.mktw.net/im-55836112",
-      "score": 35.8
     },
     {
       "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
@@ -72,7 +88,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T18:08:40Z",
       "image": null,
-      "score": 35.79
+      "score": 35.68
     },
     {
       "title": "Nvidia falls for second day as investors weigh fallout of CEO’s affair with alleged spy",
@@ -80,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T17:05:43Z",
       "image": null,
-      "score": 35.66
+      "score": 35.55
     },
     {
       "title": "Here's the inflation breakdown for October 2026 — in one chart",
@@ -88,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T16:36:40Z",
       "image": null,
-      "score": 35.6
+      "score": 35.49
     },
     {
       "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
@@ -96,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T15:04:23Z",
       "image": null,
-      "score": 35.4
+      "score": 35.3
     },
     {
       "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
@@ -104,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T15:01:21Z",
       "image": null,
-      "score": 35.4
+      "score": 35.29
     },
     {
       "title": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal",
@@ -112,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T13:19:13Z",
       "image": null,
-      "score": 35.18
+      "score": 35.08
     },
     {
       "title": "Nvidia scandal fails to bring down the tech bulls as spy investigation widens",
@@ -120,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T11:41:56Z",
       "image": null,
-      "score": 34.98
+      "score": 34.87
     },
     {
       "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
@@ -128,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T06:52:30Z",
       "image": null,
-      "score": 34.38
+      "score": 34.27
     },
     {
       "title": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
@@ -136,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T01:33:36Z",
       "image": null,
-      "score": 33.71
+      "score": 33.61
     },
     {
       "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
@@ -144,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T23:54:21Z",
       "image": null,
-      "score": 33.51
+      "score": 33.4
     },
     {
       "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy",
@@ -152,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T21:04:19Z",
       "image": null,
-      "score": 33.15
+      "score": 33.05
     },
     {
       "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
@@ -160,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T20:29:36Z",
       "image": null,
-      "score": 33.08
+      "score": 32.97
     },
     {
       "title": "A massive trade in Nvidia just went off – here are the details",
@@ -168,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T18:37:59Z",
       "image": null,
-      "score": 32.85
+      "score": 32.74
     },
     {
       "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
@@ -176,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T15:51:40Z",
       "image": null,
-      "score": 32.5
+      "score": 32.39
     },
     {
       "title": "Nasdaq defies Nvidia impact as Huang faces espionage affair probe",
@@ -184,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T11:04:49Z",
       "image": null,
-      "score": 31.9
+      "score": 31.8
     },
     {
       "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
@@ -192,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T22:49:46Z",
       "image": null,
-      "score": 30.37
+      "score": 30.27
     },
     {
       "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
@@ -200,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-08T22:19:00Z",
       "image": null,
-      "score": 30.31
+      "score": 30.2
     },
     {
       "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
@@ -211,12 +227,20 @@
       "score": 30.0
     },
     {
+      "title": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes—do this instead",
+      "url": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
+      "source": "CNBC",
+      "published_at": "2026-11-10T20:31:20Z",
+      "image": null,
+      "score": 15.98
+    },
+    {
       "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
       "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
       "source": "CNBC",
       "published_at": "2026-11-10T19:43:59Z",
       "image": null,
-      "score": 15.99
+      "score": 15.88
     },
     {
       "title": "Corporate America is making a trillion-dollar mistake about retirement",
@@ -224,7 +248,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-10T19:29:00Z",
       "image": "https://images.mktw.net/im-43763907",
-      "score": 15.96
+      "score": 15.85
     },
     {
       "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
@@ -232,15 +256,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T16:30:23Z",
       "image": null,
-      "score": 15.58
-    },
-    {
-      "title": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes—do this instead",
-      "url": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T16:30:01Z",
-      "image": null,
-      "score": 15.58
+      "score": 15.48
     },
     {
       "title": "TSMC's October sales jump as global chip boom rolls on",
@@ -248,15 +264,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T05:42:42Z",
       "image": null,
-      "score": 14.23
-    },
-    {
-      "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-      "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-      "source": "CNBC",
-      "published_at": "2026-11-09T23:31:17Z",
-      "image": null,
-      "score": 13.46
+      "score": 14.13
     },
     {
       "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
@@ -264,15 +272,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T23:30:15Z",
       "image": null,
-      "score": 13.46
-    },
-    {
-      "title": "3 unexpected reasons the October jobs report was so strong",
-      "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-      "source": "CNBC",
-      "published_at": "2026-11-09T22:23:56Z",
-      "image": null,
-      "score": 13.32
+      "score": 13.35
     },
     {
       "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
@@ -280,7 +280,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T21:24:13Z",
       "image": null,
-      "score": 13.2
+      "score": 13.09
     },
     {
       "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
@@ -288,7 +288,7 @@
       "source": "CNBC",
       "published_at": "2026-11-09T18:14:47Z",
       "image": null,
-      "score": 12.8
+      "score": 12.69
     }
   ]
 }
