@@ -1,14 +1,62 @@
 {
-  "updated_at_utc": "2026-11-11T05:55:30.527216Z",
+  "updated_at_utc": "2026-11-11T13:59:12.092830Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
-      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
       "source": "CNBC",
-      "published_at": "2026-11-11T03:08:17Z",
+      "published_at": "2026-11-11T13:50:31Z",
       "image": null,
-      "score": 35.65
+      "score": 35.98
+    },
+    {
+      "title": "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "source": "CNBC",
+      "published_at": "2026-11-11T13:45:17Z",
+      "image": null,
+      "score": 35.97
+    },
+    {
+      "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+      "source": "CNBC",
+      "published_at": "2026-11-11T13:46:59Z",
+      "image": null,
+      "score": 35.97
+    },
+    {
+      "title": "Micron and other AI stocks surge as CoreWeave calms Wall Street’s worst fears",
+      "url": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-11T13:37:00Z",
+      "image": "https://images.mktw.net/im-19395705",
+      "score": 35.95
+    },
+    {
+      "title": "Keep Jensen Huang at Nvidia — but end the one-man show",
+      "url": "https://www.marketwatch.com/story/keep-jensen-huang-at-nvidia-but-end-the-one-man-show-305c19a2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-11T12:30:00Z",
+      "image": "https://images.mktw.net/im-16595571",
+      "score": 35.81
+    },
+    {
+      "title": "Nvidia’s valuation tumbles to a 15-year low. A bargain or a falling knife?",
+      "url": "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-11T12:16:00Z",
+      "image": "https://images.mktw.net/im-39553593",
+      "score": 35.78
+    },
+    {
+      "title": "CoreWeave provides silver lining for neoclouds as Nvidia storm swirls",
+      "url": "https://www.cnbc.com/2026/11/11/coreweave-provides-silver-lining-for-neoclouds-as-nvidia-storm-swirls.html",
+      "source": "CNBC",
+      "published_at": "2026-11-11T11:56:11Z",
+      "image": null,
+      "score": 35.74
     },
     {
       "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
@@ -16,15 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T23:41:43Z",
       "image": null,
-      "score": 35.22
-    },
-    {
-      "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-      "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T23:11:34Z",
-      "image": null,
-      "score": 35.16
+      "score": 34.21
     },
     {
       "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
@@ -32,15 +72,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T23:06:44Z",
       "image": null,
-      "score": 35.15
-    },
-    {
-      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-      "url": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-10T22:37:00Z",
-      "image": "https://images.mktw.net/im-86112590",
-      "score": 35.09
+      "score": 34.14
     },
     {
       "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
@@ -48,23 +80,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T22:08:25Z",
       "image": null,
-      "score": 35.03
-    },
-    {
-      "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
-      "url": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-10T22:05:00Z",
-      "image": "https://images.mktw.net/im-14670166",
-      "score": 35.02
-    },
-    {
-      "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
-      "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T21:36:13Z",
-      "image": null,
-      "score": 34.96
+      "score": 34.02
     },
     {
       "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
@@ -72,15 +88,15 @@
       "source": "CNBC",
       "published_at": "2026-11-10T21:37:43Z",
       "image": null,
-      "score": 34.96
+      "score": 33.96
     },
     {
-      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
+      "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
       "source": "CNBC",
-      "published_at": "2026-11-10T21:06:07Z",
+      "published_at": "2026-11-10T21:36:13Z",
       "image": null,
-      "score": 34.9
+      "score": 33.95
     },
     {
       "title": "Nvidia board member Stephen Neal could play big role in probe of CEO Jensen Huang",
@@ -88,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T20:22:57Z",
       "image": null,
-      "score": 34.81
+      "score": 33.8
     },
     {
       "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
@@ -96,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T20:01:18Z",
       "image": null,
-      "score": 34.76
+      "score": 33.75
     },
     {
       "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
@@ -104,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T19:40:41Z",
       "image": null,
-      "score": 34.72
+      "score": 33.71
     },
     {
       "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
@@ -112,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T18:08:40Z",
       "image": null,
-      "score": 34.53
+      "score": 33.52
     },
     {
       "title": "Here's the inflation breakdown for October 2026 — in one chart",
@@ -120,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T16:36:40Z",
       "image": null,
-      "score": 34.34
+      "score": 33.33
     },
     {
       "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
@@ -128,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T15:04:23Z",
       "image": null,
-      "score": 34.14
+      "score": 33.14
     },
     {
       "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
@@ -136,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T15:01:21Z",
       "image": null,
-      "score": 34.14
+      "score": 33.13
     },
     {
       "title": "Nvidia scandal fails to bring down the tech bulls as spy investigation widens",
@@ -144,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T11:41:56Z",
       "image": null,
-      "score": 33.72
+      "score": 32.71
     },
     {
       "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
@@ -152,15 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T06:52:30Z",
       "image": null,
-      "score": 33.12
-    },
-    {
-      "title": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
-      "url": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T01:33:36Z",
-      "image": null,
-      "score": 32.45
+      "score": 32.11
     },
     {
       "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
@@ -168,39 +176,39 @@
       "source": "CNBC",
       "published_at": "2026-11-09T23:54:21Z",
       "image": null,
-      "score": 32.25
+      "score": 31.24
     },
     {
-      "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-      "source": "CNBC",
-      "published_at": "2026-11-09T20:29:36Z",
-      "image": null,
-      "score": 31.82
+      "title": "Corporate America is making a trillion-dollar mistake about retirement",
+      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-11T13:52:00Z",
+      "image": "https://images.mktw.net/im-43763907",
+      "score": 15.98
     },
     {
-      "title": "A massive trade in Nvidia just went off – here are the details",
-      "url": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
+      "title": "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns",
+      "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
       "source": "CNBC",
-      "published_at": "2026-11-09T18:37:59Z",
+      "published_at": "2026-11-11T13:36:50Z",
       "image": null,
-      "score": 31.59
+      "score": 15.95
     },
     {
-      "title": "Nasdaq defies Nvidia impact as Huang faces espionage affair probe",
-      "url": "https://www.cnbc.com/2026/11/09/nasdaq-defies-nvidia-impact-huang-faces-espionage-affair-probe.html",
-      "source": "CNBC",
-      "published_at": "2026-11-09T11:04:49Z",
-      "image": null,
-      "score": 30.64
+      "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+      "url": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-11T12:00:00Z",
+      "image": "https://images.mktw.net/im-13574872",
+      "score": 15.75
     },
     {
-      "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
-      "url": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
+      "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
+      "url": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
       "source": "CNBC",
-      "published_at": "2026-11-08T11:47:24Z",
+      "published_at": "2026-11-11T07:02:45Z",
       "image": null,
-      "score": 30.0
+      "score": 15.13
     },
     {
       "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
@@ -208,15 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-11T05:15:50Z",
       "image": null,
-      "score": 15.92
-    },
-    {
-      "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
-      "url": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
-      "source": "CNBC",
-      "published_at": "2026-11-11T02:46:56Z",
-      "image": null,
-      "score": 15.61
+      "score": 14.91
     },
     {
       "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
@@ -224,15 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-11T01:52:56Z",
       "image": null,
-      "score": 15.49
-    },
-    {
-      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-11T01:12:00Z",
-      "image": "https://images.mktw.net/im-04728199",
-      "score": 15.41
+      "score": 14.49
     },
     {
       "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
@@ -240,23 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T23:16:15Z",
       "image": null,
-      "score": 15.17
-    },
-    {
-      "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
-      "url": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-10T22:30:00Z",
-      "image": "https://images.mktw.net/im-22774698",
-      "score": 15.07
-    },
-    {
-      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
-      "url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-10T21:42:00Z",
-      "image": "https://images.mktw.net/im-19226741",
-      "score": 14.97
+      "score": 14.16
     },
     {
       "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
@@ -264,15 +240,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T19:43:59Z",
       "image": null,
-      "score": 14.73
-    },
-    {
-      "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T16:30:23Z",
-      "image": null,
-      "score": 14.32
+      "score": 13.72
     },
     {
       "title": "TSMC's October sales jump as global chip boom rolls on",
@@ -280,7 +248,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T05:42:42Z",
       "image": null,
-      "score": 12.97
+      "score": 11.97
     },
     {
       "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
@@ -288,7 +256,31 @@
       "source": "CNBC",
       "published_at": "2026-11-09T23:30:15Z",
       "image": null,
-      "score": 12.2
+      "score": 11.19
+    },
+    {
+      "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
+      "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+      "source": "CNBC",
+      "published_at": "2026-11-09T21:24:13Z",
+      "image": null,
+      "score": 10.93
+    },
+    {
+      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+      "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "source": "CNBC",
+      "published_at": "2026-11-09T18:14:47Z",
+      "image": null,
+      "score": 10.53
+    },
+    {
+      "title": "Jim Cramer says this is the stock to buy as data center development slows",
+      "url": "https://www.cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html",
+      "source": "CNBC",
+      "published_at": "2026-11-09T17:22:48Z",
+      "image": null,
+      "score": 10.42
     }
   ]
 }
