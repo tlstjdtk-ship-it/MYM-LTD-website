@@ -1,38 +1,54 @@
 {
-  "updated_at_utc": "2026-11-11T21:12:36.987328Z",
+  "updated_at_utc": "2026-11-12T02:27:59.243915Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-12T01:35:00Z",
+      "image": "https://images.mktw.net/im-77920319",
+      "score": 35.89
+    },
+    {
+      "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+      "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+      "source": "CNBC",
+      "published_at": "2026-11-12T01:14:21Z",
+      "image": null,
+      "score": 35.85
+    },
+    {
+      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+      "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-12T01:12:00Z",
+      "image": "https://images.mktw.net/im-99694497",
+      "score": 35.84
+    },
+    {
+      "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "source": "CNBC",
+      "published_at": "2026-11-12T00:21:27Z",
+      "image": null,
+      "score": 35.74
+    },
+    {
+      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+      "source": "CNBC",
+      "published_at": "2026-11-11T22:46:29Z",
+      "image": null,
+      "score": 35.54
+    },
     {
       "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
       "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
       "source": "CNBC",
       "published_at": "2026-11-11T21:04:36Z",
       "image": null,
-      "score": 35.98
-    },
-    {
-      "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "source": "CNBC",
-      "published_at": "2026-11-11T20:59:14Z",
-      "image": null,
-      "score": 35.97
-    },
-    {
-      "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
-      "url": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-11T18:48:00Z",
-      "image": "https://images.mktw.net/im-77037954",
-      "score": 35.7
-    },
-    {
-      "title": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
-      "url": "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-11T17:13:00Z",
-      "image": "https://images.mktw.net/im-89576474",
-      "score": 35.5
+      "score": 35.33
     },
     {
       "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
@@ -40,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-11T16:51:10Z",
       "image": null,
-      "score": 35.46
+      "score": 34.8
     },
     {
       "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
@@ -48,7 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-11T14:39:33Z",
       "image": null,
-      "score": 35.18
+      "score": 34.52
     },
     {
       "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
@@ -56,7 +72,7 @@
       "source": "CNBC",
       "published_at": "2026-11-11T13:46:59Z",
       "image": null,
-      "score": 35.07
+      "score": 34.41
     },
     {
       "title": "CoreWeave provides silver lining for neoclouds as Nvidia storm swirls",
@@ -64,7 +80,7 @@
       "source": "CNBC",
       "published_at": "2026-11-11T11:56:11Z",
       "image": null,
-      "score": 34.84
+      "score": 34.18
     },
     {
       "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
@@ -72,7 +88,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T23:41:43Z",
       "image": null,
-      "score": 33.31
+      "score": 32.65
     },
     {
       "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
@@ -80,23 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T22:08:25Z",
       "image": null,
-      "score": 33.12
-    },
-    {
-      "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-      "url": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T21:37:43Z",
-      "image": null,
-      "score": 33.05
-    },
-    {
-      "title": "Nvidia board member Stephen Neal could play big role in probe of CEO Jensen Huang",
-      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T20:22:57Z",
-      "image": null,
-      "score": 32.9
+      "score": 32.46
     },
     {
       "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
@@ -104,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T20:01:18Z",
       "image": null,
-      "score": 32.85
+      "score": 32.19
     },
     {
       "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
@@ -112,15 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T19:40:41Z",
       "image": null,
-      "score": 32.81
-    },
-    {
-      "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
-      "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T18:08:40Z",
-      "image": null,
-      "score": 32.62
+      "score": 32.15
     },
     {
       "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
@@ -128,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T15:01:21Z",
       "image": null,
-      "score": 32.23
+      "score": 31.57
     },
     {
       "title": "Nvidia scandal fails to bring down the tech bulls as spy investigation widens",
@@ -136,15 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T11:41:56Z",
       "image": null,
-      "score": 31.81
-    },
-    {
-      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T06:52:30Z",
-      "image": null,
-      "score": 31.21
+      "score": 31.15
     },
     {
       "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
@@ -152,39 +136,71 @@
       "source": "CNBC",
       "published_at": "2026-11-09T23:54:21Z",
       "image": null,
-      "score": 30.34
+      "score": 30.0
     },
     {
-      "title": "The trillion-dollar mistake corporate America is making about retirement",
-      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+      "url": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
+      "source": "CNBC",
+      "published_at": "2026-11-11T23:57:38Z",
+      "image": null,
+      "score": 15.69
+    },
+    {
+      "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+      "url": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-11T20:46:00Z",
-      "image": "https://images.mktw.net/im-43763907",
-      "score": 15.94
+      "published_at": "2026-11-11T22:05:00Z",
+      "image": "https://images.mktw.net/im-19395705",
+      "score": 15.45
     },
     {
-      "title": "Bloom Energy’s stock is rallying as data-center jitters subside",
-      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
+      "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-11T20:43:00Z",
-      "image": "https://images.mktw.net/im-16106411",
-      "score": 15.94
+      "published_at": "2026-11-11T21:55:00Z",
+      "image": "https://images.mktw.net/im-87023125",
+      "score": 15.43
     },
     {
-      "title": "Sandisk’s stock is soaring, and these three trends could send it even higher",
+      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+      "url": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-11T21:42:00Z",
+      "image": "https://images.mktw.net/im-79106008",
+      "score": 15.4
+    },
+    {
+      "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
       "url": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-11T20:25:00Z",
+      "published_at": "2026-11-11T21:40:00Z",
       "image": "https://images.mktw.net/im-75636714",
-      "score": 15.9
+      "score": 15.4
     },
     {
-      "title": "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst",
-      "url": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories",
+      "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+      "url": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-11T18:13:00Z",
-      "image": "https://images.mktw.net/im-37217183",
-      "score": 15.63
+      "published_at": "2026-11-11T21:21:00Z",
+      "image": "https://images.mktw.net/im-51599311",
+      "score": 15.36
+    },
+    {
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "2026-11-11T21:13:41Z",
+      "image": null,
+      "score": 15.35
+    },
+    {
+      "title": "Bloom Energy’s stock rallies as data-center jitters subside",
+      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-11T21:14:00Z",
+      "image": "https://images.mktw.net/im-16106411",
+      "score": 15.35
     },
     {
       "title": "Tired of spending time fixing other people's AI slop at work? How to talk to them about it",
@@ -192,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-11T16:05:01Z",
       "image": null,
-      "score": 15.36
+      "score": 14.7
     },
     {
       "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
@@ -200,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-11T05:15:50Z",
       "image": null,
-      "score": 14.01
+      "score": 13.35
     },
     {
       "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
@@ -208,15 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-11T01:52:56Z",
       "image": null,
-      "score": 13.58
-    },
-    {
-      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-      "source": "CNBC",
-      "published_at": "2026-11-10T23:16:15Z",
-      "image": null,
-      "score": 13.26
+      "score": 12.93
     },
     {
       "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
@@ -224,7 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T19:43:59Z",
       "image": null,
-      "score": 12.82
+      "score": 12.16
     },
     {
       "title": "TSMC's October sales jump as global chip boom rolls on",
@@ -232,15 +240,7 @@
       "source": "CNBC",
       "published_at": "2026-11-10T05:42:42Z",
       "image": null,
-      "score": 11.06
-    },
-    {
-      "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
-      "url": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
-      "source": "CNBC",
-      "published_at": "2026-11-09T23:30:15Z",
-      "image": null,
-      "score": 10.29
+      "score": 10.41
     },
     {
       "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
@@ -248,7 +248,15 @@
       "source": "CNBC",
       "published_at": "2026-11-09T21:24:13Z",
       "image": null,
-      "score": 10.02
+      "score": 10.0
+    },
+    {
+      "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
+      "url": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
+      "source": "CNBC",
+      "published_at": "2026-11-09T23:30:15Z",
+      "image": null,
+      "score": 10.0
     }
   ]
 }
