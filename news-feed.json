@@ -1,22 +1,126 @@
 {
-  "updated_at_utc": "2026-11-13T14:50:46.647764Z",
+  "updated_at_utc": "2026-11-13T21:22:10.896489Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
-      "title": "Bessent points to Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-      "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
       "source": "CNBC",
-      "published_at": "2026-11-13T14:39:55Z",
+      "published_at": "2026-11-13T21:18:30Z",
       "image": null,
-      "score": 35.98
+      "score": 35.99
     },
     {
-      "title": "Nvidia stock tries to recover from Jensen Huang resignation sell-off",
+      "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T21:19:04Z",
+      "image": null,
+      "score": 35.99
+    },
+    {
+      "title": "Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout",
       "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
       "source": "CNBC",
-      "published_at": "2026-11-13T14:39:53Z",
+      "published_at": "2026-11-13T21:18:11Z",
       "image": null,
-      "score": 35.98
+      "score": 35.99
+    },
+    {
+      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+      "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-13T21:10:00Z",
+      "image": "https://images.mktw.net/im-47012568",
+      "score": 35.97
+    },
+    {
+      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T21:04:43Z",
+      "image": null,
+      "score": 35.96
+    },
+    {
+      "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T20:21:46Z",
+      "image": null,
+      "score": 35.87
+    },
+    {
+      "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
+      "url": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-13T20:19:00Z",
+      "image": "https://images.mktw.net/im-85750374",
+      "score": 35.87
+    },
+    {
+      "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T19:53:38Z",
+      "image": null,
+      "score": 35.82
+    },
+    {
+      "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
+      "url": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T19:30:36Z",
+      "image": null,
+      "score": 35.77
+    },
+    {
+      "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+      "url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-13T19:19:00Z",
+      "image": "https://images.mktw.net/im-61305338",
+      "score": 35.74
+    },
+    {
+      "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets",
+      "url": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-13T19:19:00Z",
+      "image": "https://images.mktw.net/im-76010631",
+      "score": 35.74
+    },
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T19:11:13Z",
+      "image": null,
+      "score": 35.73
+    },
+    {
+      "title": "Is a bottom in for the Nasdaq-100? Charts to watch",
+      "url": "https://www.cnbc.com/2026/11/13/is-a-bottom-in-for-the-nasdaq-100-charts-to-watch.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T18:00:01Z",
+      "image": null,
+      "score": 35.58
+    },
+    {
+      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T15:49:11Z",
+      "image": null,
+      "score": 35.31
+    },
+    {
+      "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T15:03:10Z",
+      "image": null,
+      "score": 35.21
     },
     {
       "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
@@ -24,7 +128,15 @@
       "source": "CNBC",
       "published_at": "2026-11-13T14:26:04Z",
       "image": null,
-      "score": 35.95
+      "score": 35.13
+    },
+    {
+      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T14:22:07Z",
+      "image": null,
+      "score": 35.12
     },
     {
       "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
@@ -32,23 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-13T14:01:24Z",
       "image": null,
-      "score": 35.9
-    },
-    {
-      "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
-      "source": "CNBC",
-      "published_at": "2026-11-13T12:54:43Z",
-      "image": null,
-      "score": 35.76
-    },
-    {
-      "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
-      "source": "CNBC",
-      "published_at": "2026-11-13T12:44:20Z",
-      "image": null,
-      "score": 35.74
+      "score": 35.08
     },
     {
       "title": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
@@ -56,23 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-13T12:46:12Z",
       "image": null,
-      "score": 35.74
-    },
-    {
-      "title": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth.",
-      "url": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-13T12:25:00Z",
-      "image": "https://images.mktw.net/im-46600648",
-      "score": 35.7
-    },
-    {
-      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
-      "source": "CNBC",
-      "published_at": "2026-11-13T10:54:40Z",
-      "image": null,
-      "score": 35.51
+      "score": 34.93
     },
     {
       "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know",
@@ -80,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-13T08:27:07Z",
       "image": null,
-      "score": 35.2
+      "score": 34.39
     },
     {
       "title": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?",
@@ -88,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-13T07:29:15Z",
       "image": null,
-      "score": 35.08
+      "score": 34.26
     },
     {
       "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
@@ -96,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-13T07:15:01Z",
       "image": null,
-      "score": 35.05
+      "score": 34.24
     },
     {
       "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
@@ -104,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-13T05:51:34Z",
       "image": null,
-      "score": 34.88
+      "score": 34.06
     },
     {
       "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
@@ -112,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-13T04:07:44Z",
       "image": null,
-      "score": 34.66
+      "score": 33.84
     },
     {
       "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
@@ -120,15 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-12T23:14:56Z",
       "image": null,
-      "score": 34.05
-    },
-    {
-      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "source": "CNBC",
-      "published_at": "2026-11-12T23:08:50Z",
-      "image": null,
-      "score": 34.04
+      "score": 33.23
     },
     {
       "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
@@ -136,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-12T22:47:28Z",
       "image": null,
-      "score": 33.99
+      "score": 33.18
     },
     {
       "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise",
@@ -144,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-12T20:59:04Z",
       "image": null,
-      "score": 33.77
+      "score": 32.95
     },
     {
       "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
@@ -152,15 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-12T20:32:21Z",
       "image": null,
-      "score": 33.71
-    },
-    {
-      "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
-      "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-      "source": "CNBC",
-      "published_at": "2026-11-12T19:47:57Z",
-      "image": null,
-      "score": 33.62
+      "score": 32.9
     },
     {
       "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
@@ -168,15 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-12T19:42:41Z",
       "image": null,
-      "score": 33.61
-    },
-    {
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "source": "CNBC",
-      "published_at": "2026-11-12T19:05:25Z",
-      "image": null,
-      "score": 33.53
+      "score": 32.79
     },
     {
       "title": "Who is Colette Kress? Nvidia's finance chief steps in as interim CEO after Huang exit",
@@ -184,7 +240,7 @@
       "source": "CNBC",
       "published_at": "2026-11-12T18:36:30Z",
       "image": null,
-      "score": 33.47
+      "score": 32.65
     },
     {
       "title": "Nerves around Nvidia as investors await the outcome of Board's crisis CEO meeting",
@@ -192,87 +248,47 @@
       "source": "CNBC",
       "published_at": "2026-11-12T14:15:00Z",
       "image": null,
-      "score": 32.93
+      "score": 32.11
     },
     {
-      "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
-      "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
+      "title": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
       "source": "CNBC",
-      "published_at": "2026-11-13T14:24:57Z",
+      "published_at": "2026-11-13T21:08:20Z",
       "image": null,
-      "score": 15.95
+      "score": 15.97
     },
     {
-      "title": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-13T21:09:00Z",
+      "image": "https://images.mktw.net/im-43763907",
+      "score": 15.97
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "source": "CNBC",
+      "published_at": "2026-11-13T18:56:26Z",
+      "image": null,
+      "score": 15.7
+    },
+    {
+      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
       "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
       "source": "CNBC",
-      "published_at": "2026-11-13T14:23:47Z",
+      "published_at": "2026-11-13T18:18:28Z",
       "image": null,
-      "score": 15.94
+      "score": 15.62
     },
     {
-      "title": "Microsoft Outlook outage stretches into a second day: What to know",
-      "url": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-13T14:22:00Z",
-      "image": "https://images.mktw.net/im-38565839",
-      "score": 15.94
-    },
-    {
-      "title": "Opening trading-card packs has become a $2 billion market",
-      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-13T14:16:00Z",
-      "image": "https://images.mktw.net/im-87023125",
-      "score": 15.93
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
-      "url": "https://www.cnbc.com/investingclub/2026/11/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "source": "CNBC",
-      "published_at": "2026-11-13T14:12:16Z",
-      "image": null,
-      "score": 15.92
-    },
-    {
-      "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
-      "url": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html",
-      "source": "CNBC",
-      "published_at": "2026-11-13T12:05:22Z",
-      "image": null,
-      "score": 15.66
-    },
-    {
-      "title": "Profit surprises are normalizing — and that may signal a healthier stock market, say Citi strategists",
-      "url": "https://www.marketwatch.com/story/profit-surprises-are-normalizing-and-that-may-signal-a-healthier-stock-market-say-citi-strategists-d8cce7c2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-13T11:41:00Z",
-      "image": "https://images.mktw.net/im-57447371",
-      "score": 15.6
-    },
-    {
-      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "title": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal",
       "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
       "source": "CNBC",
-      "published_at": "2026-11-13T02:43:26Z",
+      "published_at": "2026-11-13T16:23:43Z",
       "image": null,
-      "score": 14.48
-    },
-    {
-      "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
-      "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
-      "source": "CNBC",
-      "published_at": "2026-11-12T20:03:57Z",
-      "image": null,
-      "score": 13.65
-    },
-    {
-      "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-      "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
-      "source": "CNBC",
-      "published_at": "2026-11-12T09:05:22Z",
-      "image": null,
-      "score": 12.28
+      "score": 15.38
     }
   ]
 }
