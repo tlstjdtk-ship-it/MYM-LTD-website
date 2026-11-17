@@ -1,14 +1,142 @@
 {
-  "updated_at_utc": "2026-11-17T08:58:49.582571Z",
+  "updated_at_utc": "2026-11-17T18:23:58.590122Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T18:21:03Z",
+      "image": null,
+      "score": 35.99
+    },
+    {
+      "title": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters",
+      "url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-17T17:36:00Z",
+      "image": "https://images.mktw.net/im-666884",
+      "score": 35.9
+    },
+    {
+      "title": "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-succession-board-lessons.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T17:00:01Z",
+      "image": null,
+      "score": 35.83
+    },
+    {
+      "title": "If you own a Nasdaq-100 fund, you’ll own Anthropic shares after 15 trading days — whether you want to or not",
+      "url": "https://www.marketwatch.com/story/if-you-own-a-nasdaq-100-fund-youll-own-anthropic-shares-after-15-trading-days-whether-you-want-to-or-not-19b08485?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-17T17:02:00Z",
+      "image": "https://images.mktw.net/im-13720648",
+      "score": 35.83
+    },
+    {
+      "title": "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T16:49:12Z",
+      "image": null,
+      "score": 35.8
+    },
+    {
+      "title": "Jensen Huang breaks his silence ahead of Nvidia earnings — plus, 1 stock to buy on weakness",
+      "url": "https://www.cnbc.com/investingclub/2026/11/17/jensen-huang-breaks-his-silence-ahead-of-nvidia-earnings-plus-1-stock-to-buy.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T16:42:21Z",
+      "image": null,
+      "score": 35.79
+    },
+    {
+      "title": "Jensen Huang now wants to return as Nvidia’s CEO. This is why that could be difficult.",
+      "url": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-17T16:38:00Z",
+      "image": "https://images.mktw.net/im-65317343",
+      "score": 35.78
+    },
+    {
+      "title": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+      "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T16:03:38Z",
+      "image": null,
+      "score": 35.71
+    },
+    {
+      "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+      "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T15:27:51Z",
+      "image": null,
+      "score": 35.63
+    },
+    {
+      "title": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
+      "url": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T15:22:45Z",
+      "image": null,
+      "score": 35.62
+    },
+    {
+      "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+      "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T13:40:54Z",
+      "image": null,
+      "score": 35.41
+    },
+    {
+      "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T13:25:58Z",
+      "image": null,
+      "score": 35.38
+    },
+    {
+      "title": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T13:16:43Z",
+      "image": null,
+      "score": 35.36
+    },
+    {
+      "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-earnings-anthropic-ipo-tech-rally.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T13:11:40Z",
+      "image": null,
+      "score": 35.35
+    },
+    {
+      "title": "Nvidia's Kress faces earnings test after stock drags Wall Street into the red",
+      "url": "https://www.cnbc.com/2026/11/17/nvidias-kress-faces-earnings-test-after-stock-drags-wall-street-into-the-red.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T11:04:17Z",
+      "image": null,
+      "score": 35.08
+    },
+    {
+      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T10:08:32Z",
+      "image": null,
+      "score": 34.97
+    },
     {
       "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
       "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
       "source": "CNBC",
       "published_at": "2026-11-17T07:07:35Z",
       "image": null,
-      "score": 35.77
+      "score": 34.59
     },
     {
       "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
@@ -16,15 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-17T06:59:42Z",
       "image": null,
-      "score": 35.75
-    },
-    {
-      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "source": "CNBC",
-      "published_at": "2026-11-17T00:42:33Z",
-      "image": null,
-      "score": 34.97
+      "score": 34.57
     },
     {
       "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
@@ -32,23 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-16T23:23:47Z",
       "image": null,
-      "score": 34.8
-    },
-    {
-      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T22:37:45Z",
-      "image": null,
-      "score": 34.71
-    },
-    {
-      "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T21:51:43Z",
-      "image": null,
-      "score": 34.61
+      "score": 33.62
     },
     {
       "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
@@ -56,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-16T21:12:10Z",
       "image": null,
-      "score": 34.53
+      "score": 33.35
     },
     {
       "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
@@ -64,15 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-16T20:44:24Z",
       "image": null,
-      "score": 34.47
-    },
-    {
-      "title": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
-      "url": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T20:07:46Z",
-      "image": null,
-      "score": 34.39
+      "score": 33.29
     },
     {
       "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
@@ -80,31 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-16T19:46:26Z",
       "image": null,
-      "score": 34.35
-    },
-    {
-      "title": "Market's Nvidia obsession obscuring an opportunity in this name",
-      "url": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T18:56:49Z",
-      "image": null,
-      "score": 34.25
-    },
-    {
-      "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
-      "url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T18:55:46Z",
-      "image": null,
-      "score": 34.24
-    },
-    {
-      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T18:46:07Z",
-      "image": null,
-      "score": 34.22
+      "score": 33.17
     },
     {
       "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
@@ -112,15 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-16T17:34:07Z",
       "image": null,
-      "score": 34.07
-    },
-    {
-      "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T13:42:43Z",
-      "image": null,
-      "score": 33.59
+      "score": 32.9
     },
     {
       "title": "Nvidia shares under pressure as calls grow for Huang to be reinstated as CEO",
@@ -128,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-16T13:14:21Z",
       "image": null,
-      "score": 33.53
+      "score": 32.35
     },
     {
       "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
@@ -136,39 +200,71 @@
       "source": "CNBC",
       "published_at": "2026-11-15T18:10:18Z",
       "image": null,
-      "score": 31.15
-    },
-    {
-      "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
-      "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
-      "source": "CNBC",
-      "published_at": "2026-11-14T18:48:39Z",
-      "image": null,
       "score": 30.0
     },
     {
-      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "title": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
+      "url": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html",
       "source": "CNBC",
-      "published_at": "2026-11-14T17:46:06Z",
+      "published_at": "2026-11-17T18:06:18Z",
       "image": null,
-      "score": 30.0
+      "score": 15.96
     },
     {
-      "title": "Treasury yields are broadly flat as investors await retail sales data",
-      "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+      "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+      "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
       "source": "CNBC",
-      "published_at": "2026-11-17T08:23:51Z",
+      "published_at": "2026-11-17T17:47:03Z",
       "image": null,
-      "score": 15.93
+      "score": 15.92
     },
     {
-      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-      "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+      "title": "7 smart reasons to sell a stock—and my ‘golden rule’ for offloading shares, says hedge fund CEO",
+      "url": "https://www.cnbc.com/2026/11/17/when-to-sell-a-stock.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T17:33:05Z",
+      "image": null,
+      "score": 15.89
+    },
+    {
+      "title": "The latest tech failure: U.S. classified national security communications network",
+      "url": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-16T23:28:00Z",
-      "image": "https://images.mktw.net/im-878137",
-      "score": 14.81
+      "published_at": "2026-11-17T17:12:00Z",
+      "image": "https://images.mktw.net/im-28566679",
+      "score": 15.85
+    },
+    {
+      "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
+      "url": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T16:39:43Z",
+      "image": null,
+      "score": 15.78
+    },
+    {
+      "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+      "url": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T14:24:10Z",
+      "image": null,
+      "score": 15.5
+    },
+    {
+      "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
+      "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T13:58:07Z",
+      "image": null,
+      "score": 15.45
+    },
+    {
+      "title": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
+      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
+      "source": "CNBC",
+      "published_at": "2026-11-17T13:35:18Z",
+      "image": null,
+      "score": 15.4
     },
     {
       "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
@@ -176,71 +272,7 @@
       "source": "CNBC",
       "published_at": "2026-11-16T23:05:12Z",
       "image": null,
-      "score": 14.76
-    },
-    {
-      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T23:01:19Z",
-      "image": null,
-      "score": 14.76
-    },
-    {
-      "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
-      "url": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-16T23:04:00Z",
-      "image": "https://images.mktw.net/im-44598991",
-      "score": 14.76
-    },
-    {
-      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-      "url": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-16T22:46:00Z",
-      "image": "https://images.mktw.net/im-819643",
-      "score": 14.72
-    },
-    {
-      "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-      "url": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-16T22:33:00Z",
-      "image": "https://images.mktw.net/im-96950195",
-      "score": 14.7
-    },
-    {
-      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-      "url": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-16T22:21:00Z",
-      "image": "https://images.mktw.net/im-91803959",
-      "score": 14.67
-    },
-    {
-      "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-      "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T22:11:09Z",
-      "image": null,
-      "score": 14.65
-    },
-    {
-      "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
-      "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T22:01:12Z",
-      "image": null,
-      "score": 14.63
-    },
-    {
-      "title": "Kalshi plans to launch stock trading soon",
-      "url": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T21:23:34Z",
-      "image": null,
-      "score": 14.55
+      "score": 13.59
     },
     {
       "title": "Robert Pattinson cast as next James Bond",
@@ -248,23 +280,7 @@
       "source": "CNBC",
       "published_at": "2026-11-16T21:03:36Z",
       "image": null,
-      "score": 14.51
-    },
-    {
-      "title": "Prediction market odds for Tesla-SpaceX merger by April 2027 top 60%",
-      "url": "https://www.cnbc.com/2026/11/16/prediction-market-odds-for-tesla-spacex-merger-by-april-2027-top-60percent.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T19:06:41Z",
-      "image": null,
-      "score": 14.27
-    },
-    {
-      "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
-      "url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
-      "source": "CNBC",
-      "published_at": "2026-11-16T12:13:47Z",
-      "image": null,
-      "score": 13.41
+      "score": 13.33
     },
     {
       "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
@@ -272,15 +288,7 @@
       "source": "CNBC",
       "published_at": "2026-11-16T09:14:46Z",
       "image": null,
-      "score": 13.03
-    },
-    {
-      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-      "source": "CNBC",
-      "published_at": "2026-11-15T12:00:01Z",
-      "image": null,
-      "score": 10.38
+      "score": 11.86
     }
   ]
 }
