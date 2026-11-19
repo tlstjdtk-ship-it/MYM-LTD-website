@@ -1,22 +1,38 @@
 {
-  "updated_at_utc": "2026-11-19T07:49:13.289563Z",
+  "updated_at_utc": "2026-11-19T17:15:18.756211Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
-      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T01:02:00Z",
-      "image": "https://images.mktw.net/im-839193",
-      "score": 35.15
+      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T16:28:06Z",
+      "image": null,
+      "score": 35.9
     },
     {
-      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T00:30:00Z",
-      "image": "https://images.mktw.net/im-49247042",
-      "score": 35.08
+      "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T12:30:29Z",
+      "image": null,
+      "score": 35.41
+    },
+    {
+      "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T12:04:29Z",
+      "image": null,
+      "score": 35.35
+    },
+    {
+      "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T11:26:09Z",
+      "image": null,
+      "score": 35.27
     },
     {
       "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
@@ -24,39 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T00:07:06Z",
       "image": null,
-      "score": 35.04
-    },
-    {
-      "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
-      "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T00:01:23Z",
-      "image": null,
-      "score": 35.03
-    },
-    {
-      "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T23:45:50Z",
-      "image": null,
-      "score": 34.99
-    },
-    {
-      "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T23:46:32Z",
-      "image": null,
-      "score": 34.99
-    },
-    {
-      "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
-      "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-18T22:31:00Z",
-      "image": "https://images.mktw.net/im-19052338",
-      "score": 34.84
+      "score": 33.86
     },
     {
       "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
@@ -64,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T21:06:49Z",
       "image": null,
-      "score": 34.66
+      "score": 33.48
     },
     {
       "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
@@ -72,15 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T19:41:59Z",
       "image": null,
-      "score": 34.48
-    },
-    {
-      "title": "Read Jim Cramer’s full interview with Nvidia’s Colette Kress: Demand, buybacks and China",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T18:14:42Z",
-      "image": null,
-      "score": 34.3
+      "score": 33.31
     },
     {
       "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
@@ -88,23 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T18:11:41Z",
       "image": null,
-      "score": 34.3
-    },
-    {
-      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T15:13:39Z",
-      "image": null,
-      "score": 33.93
-    },
-    {
-      "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
-      "url": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T15:00:01Z",
-      "image": null,
-      "score": 33.9
+      "score": 33.12
     },
     {
       "title": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
@@ -112,7 +72,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T13:05:24Z",
       "image": null,
-      "score": 33.66
+      "score": 32.48
     },
     {
       "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
@@ -120,7 +80,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T10:45:01Z",
       "image": null,
-      "score": 33.37
+      "score": 32.19
     },
     {
       "title": "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe",
@@ -128,7 +88,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T09:45:01Z",
       "image": null,
-      "score": 33.24
+      "score": 32.06
     },
     {
       "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
@@ -136,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T06:21:45Z",
       "image": null,
-      "score": 32.82
+      "score": 31.64
     },
     {
       "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
@@ -144,15 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T03:15:00Z",
       "image": null,
-      "score": 32.43
-    },
-    {
-      "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
-      "source": "CNBC",
-      "published_at": "2026-11-17T18:21:03Z",
-      "image": null,
-      "score": 31.32
+      "score": 31.25
     },
     {
       "title": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
@@ -160,15 +112,63 @@
       "source": "CNBC",
       "published_at": "2026-11-17T13:16:43Z",
       "image": null,
-      "score": 30.68
+      "score": 30.0
     },
     {
-      "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
-      "url": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+      "title": "We're adding to a consumer stock as the market enters oversold territory",
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/were-adding-to-a-consumer-stock-as-the-market-enters-oversold-territory.html",
       "source": "CNBC",
-      "published_at": "2026-11-19T03:43:38Z",
+      "published_at": "2026-11-19T17:12:46Z",
       "image": null,
-      "score": 15.49
+      "score": 15.99
+    },
+    {
+      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T17:01:41Z",
+      "image": null,
+      "score": 15.97
+    },
+    {
+      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T16:31:23Z",
+      "image": null,
+      "score": 15.91
+    },
+    {
+      "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+      "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T16:34:17Z",
+      "image": null,
+      "score": 15.91
+    },
+    {
+      "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T16:15:40Z",
+      "image": null,
+      "score": 15.88
+    },
+    {
+      "title": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T14:57:38Z",
+      "image": null,
+      "score": 15.71
+    },
+    {
+      "title": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker",
+      "url": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T12:46:28Z",
+      "image": null,
+      "score": 15.44
     },
     {
       "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
@@ -176,39 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T00:18:28Z",
       "image": null,
-      "score": 15.06
-    },
-    {
-      "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
-      "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T23:38:55Z",
-      "image": null,
-      "score": 14.98
-    },
-    {
-      "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
-      "url": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-18T23:12:00Z",
-      "image": "https://images.mktw.net/im-10621369",
-      "score": 14.92
-    },
-    {
-      "title": "How copper’s plunge could hurt the AI buildout",
-      "url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-18T23:02:00Z",
-      "image": "https://images.mktw.net/im-00878096",
-      "score": 14.9
-    },
-    {
-      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-18T22:53:00Z",
-      "image": "https://images.mktw.net/im-28661518",
-      "score": 14.88
+      "score": 13.88
     },
     {
       "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
@@ -216,15 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T21:28:04Z",
       "image": null,
-      "score": 14.71
-    },
-    {
-      "title": "Why Anthropic's hot IPO is bringing out sellers — plus, a silver lining of the down market",
-      "url": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T19:46:12Z",
-      "image": null,
-      "score": 14.49
+      "score": 13.53
     },
     {
       "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
@@ -232,15 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T19:17:27Z",
       "image": null,
-      "score": 14.43
-    },
-    {
-      "title": "Is Apple the safe haven investors think it is? Here's a way to trade it with less risk",
-      "url": "https://www.cnbc.com/2026/11/18/is-apple-the-safe-haven-investors-think-it-is-heres-a-way-to-trade-it-with-less-risk.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T18:10:21Z",
-      "image": null,
-      "score": 14.29
+      "score": 13.25
     },
     {
       "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
@@ -248,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T17:02:53Z",
       "image": null,
-      "score": 14.15
+      "score": 12.97
     },
     {
       "title": "Jim Cramer looks at what turned the market lower and where stocks could go next",
@@ -256,15 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T16:54:42Z",
       "image": null,
-      "score": 14.14
-    },
-    {
-      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-      "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T16:33:14Z",
-      "image": null,
-      "score": 14.09
+      "score": 12.96
     },
     {
       "title": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
@@ -272,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T12:55:01Z",
       "image": null,
-      "score": 13.64
+      "score": 12.46
     },
     {
       "title": "Emergency alerts and $75,000 rewards: South Korea fights high-tech exam cheating",
@@ -280,15 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T07:00:39Z",
       "image": null,
-      "score": 12.9
-    },
-    {
-      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-      "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T06:18:11Z",
-      "image": null,
-      "score": 12.81
+      "score": 11.72
     }
   ]
 }
