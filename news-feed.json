@@ -1,14 +1,38 @@
 {
-  "updated_at_utc": "2026-11-19T23:44:30.144360Z",
+  "updated_at_utc": "2026-11-20T06:55:46.877587Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-20T03:31:00Z",
+      "image": "https://images.mktw.net/im-49247042",
+      "score": 35.57
+    },
+    {
+      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T01:49:03Z",
+      "image": null,
+      "score": 35.36
+    },
+    {
+      "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-anthropic-ipo-ai-trade.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T23:22:53Z",
+      "image": null,
+      "score": 35.06
+    },
     {
       "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
       "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
       "source": "CNBC",
       "published_at": "2026-11-19T23:21:23Z",
       "image": null,
-      "score": 35.95
+      "score": 35.05
     },
     {
       "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
@@ -16,7 +40,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-19T22:53:00Z",
       "image": "https://images.mktw.net/im-05993865",
-      "score": 35.89
+      "score": 34.99
     },
     {
       "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
@@ -24,7 +48,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-19T21:45:00Z",
       "image": "https://images.mktw.net/im-79410579",
-      "score": 35.75
+      "score": 34.85
     },
     {
       "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
@@ -32,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T21:00:57Z",
       "image": null,
-      "score": 35.66
+      "score": 34.76
     },
     {
       "title": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
@@ -40,7 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T20:10:21Z",
       "image": null,
-      "score": 35.55
+      "score": 34.66
     },
     {
       "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
@@ -48,7 +72,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T19:43:08Z",
       "image": null,
-      "score": 35.5
+      "score": 34.6
     },
     {
       "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
@@ -56,7 +80,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T18:44:34Z",
       "image": null,
-      "score": 35.38
+      "score": 34.48
     },
     {
       "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
@@ -64,7 +88,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T12:30:29Z",
       "image": null,
-      "score": 34.6
+      "score": 33.7
     },
     {
       "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
@@ -72,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T12:04:29Z",
       "image": null,
-      "score": 34.54
+      "score": 33.64
     },
     {
       "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
@@ -80,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T11:26:09Z",
       "image": null,
-      "score": 34.46
+      "score": 33.56
     },
     {
       "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
@@ -88,47 +112,15 @@
       "source": "CNBC",
       "published_at": "2026-11-19T00:07:06Z",
       "image": null,
-      "score": 33.05
+      "score": 32.15
     },
     {
-      "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+      "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
       "source": "CNBC",
-      "published_at": "2026-11-18T21:06:49Z",
+      "published_at": "2026-11-19T00:01:23Z",
       "image": null,
-      "score": 32.67
-    },
-    {
-      "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T18:11:41Z",
-      "image": null,
-      "score": 32.31
-    },
-    {
-      "title": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
-      "url": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T13:05:24Z",
-      "image": null,
-      "score": 31.67
-    },
-    {
-      "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T10:45:01Z",
-      "image": null,
-      "score": 31.38
-    },
-    {
-      "title": "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T09:45:01Z",
-      "image": null,
-      "score": 31.25
+      "score": 32.14
     },
     {
       "title": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
@@ -139,12 +131,84 @@
       "score": 30.0
     },
     {
+      "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
+      "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T06:36:32Z",
+      "image": null,
+      "score": 15.96
+    },
+    {
+      "title": "AI is changing software engineering — and some developers miss the struggle",
+      "url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T06:00:01Z",
+      "image": null,
+      "score": 15.88
+    },
+    {
+      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+      "url": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T05:09:52Z",
+      "image": null,
+      "score": 15.78
+    },
+    {
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T03:56:17Z",
+      "image": null,
+      "score": 15.63
+    },
+    {
+      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T03:30:34Z",
+      "image": null,
+      "score": 15.57
+    },
+    {
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-20T01:30:00Z",
+      "image": "https://images.mktw.net/im-36389545",
+      "score": 15.32
+    },
+    {
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T00:53:55Z",
+      "image": null,
+      "score": 15.25
+    },
+    {
+      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T00:16:30Z",
+      "image": null,
+      "score": 15.17
+    },
+    {
       "title": "Anthropic was supposed to save the AI trade. What went wrong?",
       "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
       "source": "CNBC",
-      "published_at": "2026-11-19T23:15:58Z",
+      "published_at": "2026-11-20T00:00:38Z",
       "image": null,
-      "score": 15.94
+      "score": 15.14
+    },
+    {
+      "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
+      "url": "https://www.cnbc.com/2026/11/19/alphabet-stock-larry-williams-rally-signals.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T23:38:35Z",
+      "image": null,
+      "score": 15.09
     },
     {
       "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
@@ -152,15 +216,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-19T23:11:00Z",
       "image": "https://images.mktw.net/im-70376549",
-      "score": 15.93
-    },
-    {
-      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T22:15:00Z",
-      "image": "https://images.mktw.net/im-64330534",
-      "score": 15.81
+      "score": 15.03
     },
     {
       "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
@@ -168,7 +224,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-19T22:12:00Z",
       "image": "https://images.mktw.net/im-38322651",
-      "score": 15.81
+      "score": 14.91
     },
     {
       "title": "Markets are sending troubling signals about the state of the economy",
@@ -176,39 +232,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-19T21:57:00Z",
       "image": "https://images.mktw.net/im-84547419",
-      "score": 15.78
-    },
-    {
-      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T21:43:30Z",
-      "image": null,
-      "score": 15.75
-    },
-    {
-      "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-      "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T21:27:00Z",
-      "image": "https://images.mktw.net/im-63116555",
-      "score": 15.71
-    },
-    {
-      "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-      "url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T21:22:00Z",
-      "image": "https://images.mktw.net/im-55960856",
-      "score": 15.7
-    },
-    {
-      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T21:16:41Z",
-      "image": null,
-      "score": 15.69
+      "score": 14.88
     },
     {
       "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
@@ -216,7 +240,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T20:46:23Z",
       "image": null,
-      "score": 15.63
+      "score": 14.73
     },
     {
       "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
@@ -224,31 +248,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T18:30:51Z",
       "image": null,
-      "score": 15.35
-    },
-    {
-      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T17:01:41Z",
-      "image": null,
-      "score": 15.16
-    },
-    {
-      "title": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T14:57:38Z",
-      "image": null,
-      "score": 14.9
-    },
-    {
-      "title": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker",
-      "url": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T12:46:28Z",
-      "image": null,
-      "score": 14.63
+      "score": 14.45
     },
     {
       "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
@@ -256,7 +256,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T00:18:28Z",
       "image": null,
-      "score": 13.07
+      "score": 12.17
     },
     {
       "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
@@ -264,7 +264,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T21:28:04Z",
       "image": null,
-      "score": 12.72
+      "score": 11.82
     },
     {
       "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
@@ -272,7 +272,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T19:17:27Z",
       "image": null,
-      "score": 12.44
+      "score": 11.55
     },
     {
       "title": "Jim Cramer looks at what turned the market lower and where stocks could go next",
@@ -280,15 +280,7 @@
       "source": "CNBC",
       "published_at": "2026-11-18T16:54:42Z",
       "image": null,
-      "score": 12.15
-    },
-    {
-      "title": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
-      "url": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T12:55:01Z",
-      "image": null,
-      "score": 11.65
+      "score": 11.25
     }
   ]
 }
