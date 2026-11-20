@@ -1,22 +1,30 @@
 {
-  "updated_at_utc": "2026-11-20T06:55:46.877587Z",
+  "updated_at_utc": "2026-11-20T16:00:20.056519Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
-      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-20T03:31:00Z",
-      "image": "https://images.mktw.net/im-49247042",
-      "score": 35.57
+      "published_at": "2026-11-20T15:38:00Z",
+      "image": "https://images.mktw.net/im-34722118",
+      "score": 35.95
     },
     {
-      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
       "source": "CNBC",
-      "published_at": "2026-11-20T01:49:03Z",
+      "published_at": "2026-11-20T15:20:54Z",
       "image": null,
-      "score": 35.36
+      "score": 35.92
+    },
+    {
+      "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
+      "url": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T12:00:02Z",
+      "image": null,
+      "score": 35.5
     },
     {
       "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
@@ -24,31 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T23:22:53Z",
       "image": null,
-      "score": 35.06
-    },
-    {
-      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T23:21:23Z",
-      "image": null,
-      "score": 35.05
-    },
-    {
-      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
-      "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T22:53:00Z",
-      "image": "https://images.mktw.net/im-05993865",
-      "score": 34.99
-    },
-    {
-      "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T21:45:00Z",
-      "image": "https://images.mktw.net/im-79410579",
-      "score": 34.85
+      "score": 33.92
     },
     {
       "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
@@ -56,15 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T21:00:57Z",
       "image": null,
-      "score": 34.76
-    },
-    {
-      "title": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
-      "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T20:10:21Z",
-      "image": null,
-      "score": 34.66
+      "score": 33.63
     },
     {
       "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
@@ -72,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T19:43:08Z",
       "image": null,
-      "score": 34.6
+      "score": 33.46
     },
     {
       "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
@@ -80,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T18:44:34Z",
       "image": null,
-      "score": 34.48
+      "score": 33.34
     },
     {
       "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
@@ -88,15 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T12:30:29Z",
       "image": null,
-      "score": 33.7
-    },
-    {
-      "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T12:04:29Z",
-      "image": null,
-      "score": 33.64
+      "score": 32.56
     },
     {
       "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
@@ -104,39 +72,135 @@
       "source": "CNBC",
       "published_at": "2026-11-19T11:26:09Z",
       "image": null,
-      "score": 33.56
+      "score": 32.43
     },
     {
-      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
-      "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+      "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+      "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
       "source": "CNBC",
-      "published_at": "2026-11-19T00:07:06Z",
+      "published_at": "2026-11-20T15:52:45Z",
       "image": null,
-      "score": 32.15
+      "score": 15.98
     },
     {
-      "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
-      "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+      "title": "Anthropic stock falls 10% in first full day of trading amid AI sell-off",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
       "source": "CNBC",
-      "published_at": "2026-11-19T00:01:23Z",
+      "published_at": "2026-11-20T15:52:55Z",
       "image": null,
-      "score": 32.14
+      "score": 15.98
     },
     {
-      "title": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html",
+      "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-20T15:38:00Z",
+      "image": "https://images.mktw.net/im-99445886",
+      "score": 15.95
+    },
+    {
+      "title": "Cathie Wood’s ARK Invest was a big buyer of Anthropic as she tells CNBC she’s ‘quite optimistic’",
+      "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
       "source": "CNBC",
-      "published_at": "2026-11-17T13:16:43Z",
+      "published_at": "2026-11-20T15:17:03Z",
       "image": null,
-      "score": 30.0
+      "score": 15.91
+    },
+    {
+      "title": "AI can help find holiday deals — but it's not great at spotting scams, experts say",
+      "url": "https://www.cnbc.com/2026/11/20/ai-holiday-shopping-scams.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T15:12:46Z",
+      "image": null,
+      "score": 15.9
+    },
+    {
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-20T14:30:00Z",
+      "image": "https://images.mktw.net/im-36389545",
+      "score": 15.81
+    },
+    {
+      "title": "The bull market has a new problem. The 'smart money' is selling",
+      "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T14:15:29Z",
+      "image": null,
+      "score": 15.78
+    },
+    {
+      "title": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
+      "url": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-20T14:15:00Z",
+      "image": "https://images.mktw.net/im-71591631",
+      "score": 15.78
+    },
+    {
+      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T14:07:24Z",
+      "image": null,
+      "score": 15.76
+    },
+    {
+      "title": "Our top 10 things to watch in the stock market Friday",
+      "url": "https://www.cnbc.com/investingclub/2026/11/20/our-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T14:06:35Z",
+      "image": null,
+      "score": 15.76
+    },
+    {
+      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+      "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T13:29:50Z",
+      "image": null,
+      "score": 15.69
+    },
+    {
+      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T13:25:56Z",
+      "image": null,
+      "score": 15.68
+    },
+    {
+      "title": "Lagarde says EU funds should take first losses on chip plants, data centers",
+      "url": "https://www.cnbc.com/2026/11/20/lagarde-eu-data-center-funding.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T12:52:15Z",
+      "image": null,
+      "score": 15.61
+    },
+    {
+      "title": "Tech wreck drags Anthropic into the red on its second day of trading",
+      "url": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T11:26:37Z",
+      "image": null,
+      "score": 15.43
+    },
+    {
+      "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T07:23:06Z",
+      "image": null,
+      "score": 14.92
     },
     {
       "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
       "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
       "source": "CNBC",
-      "published_at": "2026-11-20T06:36:32Z",
+      "published_at": "2026-11-20T07:08:36Z",
       "image": null,
-      "score": 15.96
+      "score": 14.89
     },
     {
       "title": "AI is changing software engineering — and some developers miss the struggle",
@@ -144,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T06:00:01Z",
       "image": null,
-      "score": 15.88
+      "score": 14.75
     },
     {
       "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
@@ -152,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T05:09:52Z",
       "image": null,
-      "score": 15.78
+      "score": 14.64
     },
     {
       "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
@@ -160,23 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T03:56:17Z",
       "image": null,
-      "score": 15.63
-    },
-    {
-      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T03:30:34Z",
-      "image": null,
-      "score": 15.57
-    },
-    {
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-20T01:30:00Z",
-      "image": "https://images.mktw.net/im-36389545",
-      "score": 15.32
+      "score": 14.49
     },
     {
       "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -184,15 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T00:53:55Z",
       "image": null,
-      "score": 15.25
-    },
-    {
-      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T00:16:30Z",
-      "image": null,
-      "score": 15.17
+      "score": 14.11
     },
     {
       "title": "Anthropic was supposed to save the AI trade. What went wrong?",
@@ -200,7 +240,15 @@
       "source": "CNBC",
       "published_at": "2026-11-20T00:00:38Z",
       "image": null,
-      "score": 15.14
+      "score": 14.0
+    },
+    {
+      "title": "Lumentum CEO defends Marvell deal after stock plunge: 'We've got work to do' with shareholders",
+      "url": "https://www.cnbc.com/2026/11/19/lumentum-marvell-deal-ceo-shareholders-cramer.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T23:47:42Z",
+      "image": null,
+      "score": 13.97
     },
     {
       "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
@@ -208,31 +256,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T23:38:35Z",
       "image": null,
-      "score": 15.09
-    },
-    {
-      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
-      "url": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T23:11:00Z",
-      "image": "https://images.mktw.net/im-70376549",
-      "score": 15.03
-    },
-    {
-      "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T22:12:00Z",
-      "image": "https://images.mktw.net/im-38322651",
-      "score": 14.91
-    },
-    {
-      "title": "Markets are sending troubling signals about the state of the economy",
-      "url": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-19T21:57:00Z",
-      "image": "https://images.mktw.net/im-84547419",
-      "score": 14.88
+      "score": 13.95
     },
     {
       "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
@@ -240,47 +264,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T20:46:23Z",
       "image": null,
-      "score": 14.73
-    },
-    {
-      "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
-      "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T18:30:51Z",
-      "image": null,
-      "score": 14.45
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
-      "url": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T00:18:28Z",
-      "image": null,
-      "score": 12.17
-    },
-    {
-      "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
-      "url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T21:28:04Z",
-      "image": null,
-      "score": 11.82
-    },
-    {
-      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T19:17:27Z",
-      "image": null,
-      "score": 11.55
-    },
-    {
-      "title": "Jim Cramer looks at what turned the market lower and where stocks could go next",
-      "url": "https://www.cnbc.com/investingclub/2026/11/18/cramer-looks-at-what-turned-the-market-lower-where-stocks-could-go-next.html",
-      "source": "CNBC",
-      "published_at": "2026-11-18T16:54:42Z",
-      "image": null,
-      "score": 11.25
+      "score": 13.6
     }
   ]
 }
