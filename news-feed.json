@@ -1,14 +1,22 @@
 {
-  "updated_at_utc": "2026-11-21T03:25:33.731941Z",
+  "updated_at_utc": "2026-11-21T11:38:58.781878Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "S&P 500 correction: Five forces behind the market sell-off",
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+      "source": "CNBC",
+      "published_at": "2026-11-21T11:29:25Z",
+      "image": null,
+      "score": 35.98
+    },
     {
       "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
       "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
       "source": "CNBC",
       "published_at": "2026-11-20T22:59:33Z",
       "image": null,
-      "score": 35.45
+      "score": 34.42
     },
     {
       "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
@@ -16,7 +24,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-20T22:46:00Z",
       "image": "https://images.mktw.net/im-22825043",
-      "score": 35.42
+      "score": 34.39
     },
     {
       "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
@@ -24,7 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T22:08:41Z",
       "image": null,
-      "score": 35.34
+      "score": 34.31
     },
     {
       "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
@@ -32,7 +40,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-20T21:58:00Z",
       "image": "https://images.mktw.net/im-34722118",
-      "score": 35.32
+      "score": 34.29
     },
     {
       "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
@@ -40,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:10:48Z",
       "image": null,
-      "score": 35.22
+      "score": 34.19
     },
     {
       "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
@@ -48,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T20:06:12Z",
       "image": null,
-      "score": 35.08
+      "score": 34.06
     },
     {
       "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
@@ -56,7 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T12:00:02Z",
       "image": null,
-      "score": 34.07
+      "score": 33.04
     },
     {
       "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
@@ -64,7 +72,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T23:22:53Z",
       "image": null,
-      "score": 32.49
+      "score": 31.47
     },
     {
       "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
@@ -72,7 +80,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T21:00:57Z",
       "image": null,
-      "score": 32.2
+      "score": 31.17
     },
     {
       "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
@@ -80,7 +88,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T19:43:08Z",
       "image": null,
-      "score": 32.04
+      "score": 31.01
     },
     {
       "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
@@ -88,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T18:44:34Z",
       "image": null,
-      "score": 31.91
+      "score": 30.89
     },
     {
       "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
@@ -96,7 +104,15 @@
       "source": "CNBC",
       "published_at": "2026-11-19T12:30:29Z",
       "image": null,
-      "score": 31.14
+      "score": 30.11
+    },
+    {
+      "title": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
+      "source": "CNBC",
+      "published_at": "2026-11-21T05:30:09Z",
+      "image": null,
+      "score": 15.23
     },
     {
       "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
@@ -104,7 +120,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-21T03:20:00Z",
       "image": "https://images.mktw.net/im-46571930",
-      "score": 15.99
+      "score": 14.96
     },
     {
       "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
@@ -112,7 +128,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-20T22:44:00Z",
       "image": "https://images.mktw.net/im-69966637",
-      "score": 15.41
+      "score": 14.39
     },
     {
       "title": "These stocks were crushed the most this week as the tech wreck accelerated",
@@ -120,7 +136,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-20T22:44:00Z",
       "image": "https://images.mktw.net/im-51562776",
-      "score": 15.41
+      "score": 14.39
     },
     {
       "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
@@ -128,7 +144,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-20T21:39:00Z",
       "image": "https://images.mktw.net/im-97455041",
-      "score": 15.28
+      "score": 14.25
     },
     {
       "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
@@ -136,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:35:24Z",
       "image": null,
-      "score": 15.27
+      "score": 14.24
     },
     {
       "title": "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
@@ -144,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:27:51Z",
       "image": null,
-      "score": 15.25
+      "score": 14.23
     },
     {
       "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
@@ -152,7 +168,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-20T21:25:00Z",
       "image": "https://images.mktw.net/im-99445886",
-      "score": 15.25
+      "score": 14.22
     },
     {
       "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
@@ -160,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:06:45Z",
       "image": null,
-      "score": 15.21
+      "score": 14.18
     },
     {
       "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
@@ -168,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T19:59:03Z",
       "image": null,
-      "score": 15.07
+      "score": 14.04
     },
     {
       "title": "A massive bearish trade just happened in the chip stocks",
@@ -176,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T19:33:31Z",
       "image": null,
-      "score": 15.02
+      "score": 13.99
     },
     {
       "title": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
@@ -184,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T18:55:39Z",
       "image": null,
-      "score": 14.94
+      "score": 13.91
     },
     {
       "title": "Cathie Wood’s Ark Invest was a big buyer of Anthropic as she tells CNBC she’s ‘quite optimistic’",
@@ -192,23 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T16:18:04Z",
       "image": null,
-      "score": 14.61
-    },
-    {
-      "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
-      "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T15:52:45Z",
-      "image": null,
-      "score": 14.56
-    },
-    {
-      "title": "The bull market has a new problem. The 'smart money' is selling",
-      "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T14:15:29Z",
-      "image": null,
-      "score": 14.35
+      "score": 13.58
     },
     {
       "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
@@ -216,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T14:07:24Z",
       "image": null,
-      "score": 14.34
+      "score": 13.31
     },
     {
       "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
@@ -224,7 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T13:29:50Z",
       "image": null,
-      "score": 14.26
+      "score": 13.23
     },
     {
       "title": "Lagarde says EU funds should take first losses on chip plants, data centers",
@@ -232,7 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T12:52:15Z",
       "image": null,
-      "score": 14.18
+      "score": 13.15
     },
     {
       "title": "Tech wreck drags Anthropic into the red on its second day of trading",
@@ -240,7 +240,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T11:26:37Z",
       "image": null,
-      "score": 14.0
+      "score": 12.97
     },
     {
       "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
@@ -248,7 +248,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T07:23:06Z",
       "image": null,
-      "score": 13.49
+      "score": 12.47
     },
     {
       "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
@@ -256,7 +256,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T07:08:36Z",
       "image": null,
-      "score": 13.46
+      "score": 12.44
     },
     {
       "title": "AI is changing software engineering — and some developers miss the struggle",
@@ -264,7 +264,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T06:00:01Z",
       "image": null,
-      "score": 13.32
+      "score": 12.29
     },
     {
       "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
@@ -272,7 +272,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T03:56:17Z",
       "image": null,
-      "score": 13.06
+      "score": 12.04
     },
     {
       "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -280,7 +280,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T00:53:55Z",
       "image": null,
-      "score": 12.68
+      "score": 11.66
     },
     {
       "title": "Anthropic was supposed to save the AI trade. What went wrong?",
@@ -288,7 +288,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T00:00:38Z",
       "image": null,
-      "score": 12.57
+      "score": 11.55
     }
   ]
 }
