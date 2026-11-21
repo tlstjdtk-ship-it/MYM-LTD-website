@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-21T19:02:07.795819Z",
+  "updated_at_utc": "2026-11-21T23:44:32.798410Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
@@ -8,15 +8,7 @@
       "source": "CNBC",
       "published_at": "2026-11-21T16:40:05Z",
       "image": null,
-      "score": 35.7
-    },
-    {
-      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
-      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-21T15:15:00Z",
-      "image": "https://images.mktw.net/im-49247042",
-      "score": 35.53
+      "score": 35.12
     },
     {
       "title": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
@@ -24,7 +16,7 @@
       "source": "CNBC",
       "published_at": "2026-11-21T14:22:04Z",
       "image": null,
-      "score": 35.42
+      "score": 34.83
     },
     {
       "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
@@ -32,7 +24,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T22:59:33Z",
       "image": null,
-      "score": 33.49
+      "score": 32.91
     },
     {
       "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
@@ -40,7 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T22:08:41Z",
       "image": null,
-      "score": 33.39
+      "score": 32.8
     },
     {
       "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
@@ -48,7 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:10:48Z",
       "image": null,
-      "score": 33.27
+      "score": 32.68
     },
     {
       "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
@@ -56,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T12:00:02Z",
       "image": null,
-      "score": 32.12
+      "score": 31.53
     },
     {
       "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
@@ -64,15 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T23:22:53Z",
       "image": null,
-      "score": 30.54
-    },
-    {
-      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T21:00:57Z",
-      "image": null,
-      "score": 30.25
+      "score": 30.0
     },
     {
       "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
@@ -80,7 +64,23 @@
       "source": "CNBC",
       "published_at": "2026-11-19T19:43:08Z",
       "image": null,
-      "score": 30.09
+      "score": 30.0
+    },
+    {
+      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T21:00:57Z",
+      "image": null,
+      "score": 30.0
+    },
+    {
+      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-21T20:15:00Z",
+      "image": "https://images.mktw.net/im-72281427",
+      "score": 15.56
     },
     {
       "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
@@ -88,15 +88,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-21T18:19:00Z",
       "image": "https://images.mktw.net/im-39302735",
-      "score": 15.91
-    },
-    {
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-21T15:15:00Z",
-      "image": "https://images.mktw.net/im-36389545",
-      "score": 15.53
+      "score": 15.32
     },
     {
       "title": "Tech outages are fueling a new doomsday economy",
@@ -104,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-21T15:04:56Z",
       "image": null,
-      "score": 15.51
+      "score": 14.92
     },
     {
       "title": "Why Anthropic's blockbuster IPO couldn't escape the stock market correction",
@@ -112,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-21T14:07:53Z",
       "image": null,
-      "score": 15.39
+      "score": 14.8
     },
     {
       "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
@@ -120,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:35:24Z",
       "image": null,
-      "score": 13.32
+      "score": 12.73
     },
     {
       "title": "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
@@ -128,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:27:51Z",
       "image": null,
-      "score": 13.3
+      "score": 12.72
     },
     {
       "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
@@ -136,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:06:45Z",
       "image": null,
-      "score": 13.26
+      "score": 12.67
     },
     {
       "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
@@ -144,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T19:59:03Z",
       "image": null,
-      "score": 13.12
+      "score": 12.53
     },
     {
       "title": "A massive bearish trade just happened in the chip stocks",
@@ -152,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T19:33:31Z",
       "image": null,
-      "score": 13.07
+      "score": 12.48
     },
     {
       "title": "Cathie Wood’s Ark Invest was a big buyer of Anthropic as she tells CNBC she’s ‘quite optimistic’",
@@ -160,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T16:18:04Z",
       "image": null,
-      "score": 12.66
+      "score": 12.07
     },
     {
       "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
@@ -168,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T14:07:24Z",
       "image": null,
-      "score": 12.39
+      "score": 11.8
     },
     {
       "title": "Lagarde says EU funds should take first losses on chip plants, data centers",
@@ -176,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T12:52:15Z",
       "image": null,
-      "score": 12.23
+      "score": 11.64
     },
     {
       "title": "Tech wreck drags Anthropic into the red on its second day of trading",
@@ -184,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T11:26:37Z",
       "image": null,
-      "score": 12.05
+      "score": 11.46
     },
     {
       "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
@@ -192,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T07:23:06Z",
       "image": null,
-      "score": 11.54
+      "score": 10.96
     },
     {
       "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
@@ -200,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T07:08:36Z",
       "image": null,
-      "score": 11.51
+      "score": 10.93
     },
     {
       "title": "AI is changing software engineering — and some developers miss the struggle",
@@ -208,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T06:00:01Z",
       "image": null,
-      "score": 11.37
+      "score": 10.78
     },
     {
       "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
@@ -216,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T03:56:17Z",
       "image": null,
-      "score": 11.11
+      "score": 10.52
     },
     {
       "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -224,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T00:53:55Z",
       "image": null,
-      "score": 10.73
+      "score": 10.14
     },
     {
       "title": "Anthropic was supposed to save the AI trade. What went wrong?",
@@ -232,7 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T00:00:38Z",
       "image": null,
-      "score": 10.62
+      "score": 10.03
     },
     {
       "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
@@ -240,7 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T23:38:35Z",
       "image": null,
-      "score": 10.58
+      "score": 10.0
     }
   ]
 }
