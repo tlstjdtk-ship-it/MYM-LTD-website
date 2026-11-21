@@ -1,14 +1,30 @@
 {
-  "updated_at_utc": "2026-11-21T11:38:58.781878Z",
+  "updated_at_utc": "2026-11-21T19:02:07.795819Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
-      "title": "S&P 500 correction: Five forces behind the market sell-off",
-      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
       "source": "CNBC",
-      "published_at": "2026-11-21T11:29:25Z",
+      "published_at": "2026-11-21T16:40:05Z",
       "image": null,
-      "score": 35.98
+      "score": 35.7
+    },
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-21T15:15:00Z",
+      "image": "https://images.mktw.net/im-49247042",
+      "score": 35.53
+    },
+    {
+      "title": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
+      "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
+      "source": "CNBC",
+      "published_at": "2026-11-21T14:22:04Z",
+      "image": null,
+      "score": 35.42
     },
     {
       "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
@@ -16,15 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T22:59:33Z",
       "image": null,
-      "score": 34.42
-    },
-    {
-      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-      "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-20T22:46:00Z",
-      "image": "https://images.mktw.net/im-22825043",
-      "score": 34.39
+      "score": 33.49
     },
     {
       "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
@@ -32,15 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T22:08:41Z",
       "image": null,
-      "score": 34.31
-    },
-    {
-      "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-20T21:58:00Z",
-      "image": "https://images.mktw.net/im-34722118",
-      "score": 34.29
+      "score": 33.39
     },
     {
       "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
@@ -48,15 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:10:48Z",
       "image": null,
-      "score": 34.19
-    },
-    {
-      "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
-      "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T20:06:12Z",
-      "image": null,
-      "score": 34.06
+      "score": 33.27
     },
     {
       "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
@@ -64,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T12:00:02Z",
       "image": null,
-      "score": 33.04
+      "score": 32.12
     },
     {
       "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
@@ -72,7 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T23:22:53Z",
       "image": null,
-      "score": 31.47
+      "score": 30.54
     },
     {
       "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
@@ -80,7 +72,7 @@
       "source": "CNBC",
       "published_at": "2026-11-19T21:00:57Z",
       "image": null,
-      "score": 31.17
+      "score": 30.25
     },
     {
       "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
@@ -88,63 +80,39 @@
       "source": "CNBC",
       "published_at": "2026-11-19T19:43:08Z",
       "image": null,
-      "score": 31.01
+      "score": 30.09
     },
     {
-      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-21T18:19:00Z",
+      "image": "https://images.mktw.net/im-39302735",
+      "score": 15.91
+    },
+    {
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-21T15:15:00Z",
+      "image": "https://images.mktw.net/im-36389545",
+      "score": 15.53
+    },
+    {
+      "title": "Tech outages are fueling a new doomsday economy",
+      "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
       "source": "CNBC",
-      "published_at": "2026-11-19T18:44:34Z",
+      "published_at": "2026-11-21T15:04:56Z",
       "image": null,
-      "score": 30.89
+      "score": 15.51
     },
     {
-      "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
-      "source": "CNBC",
-      "published_at": "2026-11-19T12:30:29Z",
-      "image": null,
-      "score": 30.11
-    },
-    {
-      "title": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
+      "title": "Why Anthropic's blockbuster IPO couldn't escape the stock market correction",
       "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
       "source": "CNBC",
-      "published_at": "2026-11-21T05:30:09Z",
+      "published_at": "2026-11-21T14:07:53Z",
       "image": null,
-      "score": 15.23
-    },
-    {
-      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-      "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-21T03:20:00Z",
-      "image": "https://images.mktw.net/im-46571930",
-      "score": 14.96
-    },
-    {
-      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-      "url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-20T22:44:00Z",
-      "image": "https://images.mktw.net/im-69966637",
-      "score": 14.39
-    },
-    {
-      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-      "url": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-20T22:44:00Z",
-      "image": "https://images.mktw.net/im-51562776",
-      "score": 14.39
-    },
-    {
-      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-      "url": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-20T21:39:00Z",
-      "image": "https://images.mktw.net/im-97455041",
-      "score": 14.25
+      "score": 15.39
     },
     {
       "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
@@ -152,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:35:24Z",
       "image": null,
-      "score": 14.24
+      "score": 13.32
     },
     {
       "title": "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
@@ -160,15 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:27:51Z",
       "image": null,
-      "score": 14.23
-    },
-    {
-      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-20T21:25:00Z",
-      "image": "https://images.mktw.net/im-99445886",
-      "score": 14.22
+      "score": 13.3
     },
     {
       "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
@@ -176,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T21:06:45Z",
       "image": null,
-      "score": 14.18
+      "score": 13.26
     },
     {
       "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
@@ -184,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T19:59:03Z",
       "image": null,
-      "score": 14.04
+      "score": 13.12
     },
     {
       "title": "A massive bearish trade just happened in the chip stocks",
@@ -192,15 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T19:33:31Z",
       "image": null,
-      "score": 13.99
-    },
-    {
-      "title": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
-      "url": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T18:55:39Z",
-      "image": null,
-      "score": 13.91
+      "score": 13.07
     },
     {
       "title": "Cathie Wood’s Ark Invest was a big buyer of Anthropic as she tells CNBC she’s ‘quite optimistic’",
@@ -208,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T16:18:04Z",
       "image": null,
-      "score": 13.58
+      "score": 12.66
     },
     {
       "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
@@ -216,15 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T14:07:24Z",
       "image": null,
-      "score": 13.31
-    },
-    {
-      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-      "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T13:29:50Z",
-      "image": null,
-      "score": 13.23
+      "score": 12.39
     },
     {
       "title": "Lagarde says EU funds should take first losses on chip plants, data centers",
@@ -232,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T12:52:15Z",
       "image": null,
-      "score": 13.15
+      "score": 12.23
     },
     {
       "title": "Tech wreck drags Anthropic into the red on its second day of trading",
@@ -240,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T11:26:37Z",
       "image": null,
-      "score": 12.97
+      "score": 12.05
     },
     {
       "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
@@ -248,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T07:23:06Z",
       "image": null,
-      "score": 12.47
+      "score": 11.54
     },
     {
       "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
@@ -256,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T07:08:36Z",
       "image": null,
-      "score": 12.44
+      "score": 11.51
     },
     {
       "title": "AI is changing software engineering — and some developers miss the struggle",
@@ -264,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T06:00:01Z",
       "image": null,
-      "score": 12.29
+      "score": 11.37
     },
     {
       "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
@@ -272,7 +216,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T03:56:17Z",
       "image": null,
-      "score": 12.04
+      "score": 11.11
     },
     {
       "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -280,7 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-20T00:53:55Z",
       "image": null,
-      "score": 11.66
+      "score": 10.73
     },
     {
       "title": "Anthropic was supposed to save the AI trade. What went wrong?",
@@ -288,7 +232,15 @@
       "source": "CNBC",
       "published_at": "2026-11-20T00:00:38Z",
       "image": null,
-      "score": 11.55
+      "score": 10.62
+    },
+    {
+      "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
+      "url": "https://www.cnbc.com/2026/11/19/alphabet-stock-larry-williams-rally-signals.html",
+      "source": "CNBC",
+      "published_at": "2026-11-19T23:38:35Z",
+      "image": null,
+      "score": 10.58
     }
   ]
 }
