@@ -1,14 +1,30 @@
 {
-  "updated_at_utc": "2026-11-23T01:30:18.394346Z",
+  "updated_at_utc": "2026-11-23T09:40:38.798299Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+      "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T09:24:21Z",
+      "image": null,
+      "score": 35.97
+    },
+    {
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T05:08:03Z",
+      "image": null,
+      "score": 35.43
+    },
     {
       "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
       "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "published_at": "2026-11-22T17:00:00Z",
       "image": "https://images.mktw.net/im-49247042",
-      "score": 34.94
+      "score": 33.92
     },
     {
       "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
@@ -16,7 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-22T12:13:56Z",
       "image": null,
-      "score": 34.34
+      "score": 33.32
     },
     {
       "title": "The Nasdaq is in freefall. Here's one stock to look at",
@@ -24,7 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-22T12:10:39Z",
       "image": null,
-      "score": 34.33
+      "score": 33.31
     },
     {
       "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
@@ -32,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-21T16:40:05Z",
       "image": null,
-      "score": 31.9
+      "score": 30.87
     },
     {
       "title": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
@@ -40,15 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-21T14:22:04Z",
       "image": null,
-      "score": 31.61
-    },
-    {
-      "title": "S&P 500 correction: Five forces behind the market sell-off",
-      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
-      "source": "CNBC",
-      "published_at": "2026-11-21T11:29:25Z",
-      "image": null,
-      "score": 31.25
+      "score": 30.59
     },
     {
       "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
@@ -75,12 +83,60 @@
       "score": 30.0
     },
     {
+      "title": "Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade",
+      "url": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-23T08:37:00Z",
+      "image": "https://images.mktw.net/im-98709020",
+      "score": 15.87
+    },
+    {
+      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
+      "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T06:50:48Z",
+      "image": null,
+      "score": 15.65
+    },
+    {
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-23T05:01:00Z",
+      "image": "https://images.mktw.net/im-24997077",
+      "score": 15.42
+    },
+    {
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T03:52:17Z",
+      "image": null,
+      "score": 15.27
+    },
+    {
+      "title": "3 big things we're watching in the market this Thanksgiving week",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T00:42:54Z",
+      "image": null,
+      "score": 14.88
+    },
+    {
+      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+      "source": "CNBC",
+      "published_at": "2026-11-22T23:49:44Z",
+      "image": null,
+      "score": 14.77
+    },
+    {
       "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
       "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "published_at": "2026-11-22T21:51:00Z",
       "image": "https://images.mktw.net/im-74462346",
-      "score": 15.54
+      "score": 14.52
     },
     {
       "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
@@ -88,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-22T17:14:03Z",
       "image": null,
-      "score": 14.97
+      "score": 13.94
     },
     {
       "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
@@ -96,15 +152,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-22T16:32:00Z",
       "image": "https://images.mktw.net/im-36389545",
-      "score": 14.88
-    },
-    {
-      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-      "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-22T16:15:00Z",
-      "image": "https://images.mktw.net/im-39302735",
-      "score": 14.84
+      "score": 13.86
     },
     {
       "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
@@ -112,45 +160,13 @@
       "source": "CNBC",
       "published_at": "2026-11-22T14:00:01Z",
       "image": null,
-      "score": 14.56
-    },
-    {
-      "title": "Why Anthropic's blockbuster IPO couldn't escape the stock market correction",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
-      "source": "CNBC",
-      "published_at": "2026-11-21T14:07:53Z",
-      "image": null,
-      "score": 11.58
-    },
-    {
-      "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
-      "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T07:08:36Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
-      "url": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T05:09:52Z",
-      "image": null,
-      "score": 10.0
+      "score": 13.54
     },
     {
       "title": "The bull market has a new problem. The 'smart money' is selling",
       "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
       "source": "CNBC",
       "published_at": "2026-11-20T14:15:29Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T21:35:24Z",
       "image": null,
       "score": 10.0
     },
@@ -167,6 +183,14 @@
       "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
       "source": "CNBC",
       "published_at": "2026-11-20T16:18:04Z",
+      "image": null,
+      "score": 10.0
+    },
+    {
+      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+      "source": "CNBC",
+      "published_at": "2026-11-20T21:35:24Z",
       "image": null,
       "score": 10.0
     },
@@ -207,30 +231,6 @@
       "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
       "source": "CNBC",
       "published_at": "2026-11-20T21:27:51Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "AI is changing software engineering — and some developers miss the struggle",
-      "url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T06:00:01Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-      "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T03:56:17Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
-      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T07:23:06Z",
       "image": null,
       "score": 10.0
     }
