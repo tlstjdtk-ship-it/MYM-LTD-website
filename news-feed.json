@@ -1,30 +1,142 @@
 {
-  "updated_at_utc": "2026-11-23T09:40:38.798299Z",
+  "updated_at_utc": "2026-11-23T21:58:35.294915Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
     {
-      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+      "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T21:46:39Z",
+      "image": null,
+      "score": 35.98
+    },
+    {
+      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+      "url": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-23T21:45:00Z",
+      "image": "https://images.mktw.net/im-05512747",
+      "score": 35.97
+    },
+    {
+      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-23T21:36:00Z",
+      "image": "https://images.mktw.net/im-93778378",
+      "score": 35.95
+    },
+    {
+      "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
       "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
       "source": "CNBC",
-      "published_at": "2026-11-23T09:24:21Z",
+      "published_at": "2026-11-23T21:22:13Z",
       "image": null,
-      "score": 35.97
+      "score": 35.92
+    },
+    {
+      "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+      "url": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-23T21:19:00Z",
+      "image": "https://images.mktw.net/im-63949548",
+      "score": 35.92
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T21:08:05Z",
+      "image": null,
+      "score": 35.89
+    },
+    {
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T21:02:17Z",
+      "image": null,
+      "score": 35.88
+    },
+    {
+      "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T20:57:41Z",
+      "image": null,
+      "score": 35.87
+    },
+    {
+      "title": "Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last?",
+      "url": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-23T20:51:00Z",
+      "image": "https://images.mktw.net/im-02379223",
+      "score": 35.86
+    },
+    {
+      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T20:22:49Z",
+      "image": null,
+      "score": 35.8
+    },
+    {
+      "title": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
+      "url": "https://www.cnbc.com/investingclub/2026/11/23/nvidia-breathes-new-life-into-the-ai-trade-plus-qnity-inks-a-smart-deal-to-get-stronger.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T20:03:25Z",
+      "image": null,
+      "score": 35.76
+    },
+    {
+      "title": "An options strategy for making even more of your money back in Nvidia",
+      "url": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T18:52:46Z",
+      "image": null,
+      "score": 35.61
+    },
+    {
+      "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T17:16:39Z",
+      "image": null,
+      "score": 35.41
+    },
+    {
+      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T15:30:27Z",
+      "image": null,
+      "score": 35.19
     },
     {
       "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
       "source": "CNBC",
-      "published_at": "2026-11-23T05:08:03Z",
+      "published_at": "2026-11-23T14:40:11Z",
       "image": null,
-      "score": 35.43
+      "score": 35.09
     },
     {
-      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
-      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-22T17:00:00Z",
-      "image": "https://images.mktw.net/im-49247042",
-      "score": 33.92
+      "title": "Wall Street's 'Fear Gauge' just flashed a buy sign",
+      "url": "https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T14:14:28Z",
+      "image": null,
+      "score": 35.03
+    },
+    {
+      "title": "Futures rally after Wall Street's nightmare week",
+      "url": "https://www.cnbc.com/2026/11/23/futures-rally-after-wall-streets-nightmare-week-.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T11:10:34Z",
+      "image": null,
+      "score": 34.65
     },
     {
       "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
@@ -32,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-22T12:13:56Z",
       "image": null,
-      "score": 33.32
+      "score": 31.78
     },
     {
       "title": "The Nasdaq is in freefall. Here's one stock to look at",
@@ -40,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-22T12:10:39Z",
       "image": null,
-      "score": 33.31
+      "score": 31.78
     },
     {
       "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
@@ -48,15 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-21T16:40:05Z",
       "image": null,
-      "score": 30.87
-    },
-    {
-      "title": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
-      "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
-      "source": "CNBC",
-      "published_at": "2026-11-21T14:22:04Z",
-      "image": null,
-      "score": 30.59
+      "score": 30.0
     },
     {
       "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
@@ -75,68 +179,92 @@
       "score": 30.0
     },
     {
-      "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
-      "url": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T12:00:02Z",
-      "image": null,
-      "score": 30.0
-    },
-    {
-      "title": "Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade",
-      "url": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
+      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-23T08:37:00Z",
-      "image": "https://images.mktw.net/im-98709020",
-      "score": 15.87
+      "published_at": "2026-11-23T21:51:00Z",
+      "image": "https://images.mktw.net/im-11808731",
+      "score": 15.98
     },
     {
-      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
-      "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T06:50:48Z",
-      "image": null,
-      "score": 15.65
-    },
-    {
-      "title": "The number of 401(k) millionaires drops amid stock-market swings",
-      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+      "url": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-23T05:01:00Z",
-      "image": "https://images.mktw.net/im-24997077",
-      "score": 15.42
+      "published_at": "2026-11-23T21:33:00Z",
+      "image": "https://images.mktw.net/im-71032583",
+      "score": 15.95
     },
     {
-      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-      "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T03:52:17Z",
-      "image": null,
-      "score": 15.27
-    },
-    {
-      "title": "3 big things we're watching in the market this Thanksgiving week",
-      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T00:42:54Z",
-      "image": null,
-      "score": 14.88
-    },
-    {
-      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
-      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
-      "source": "CNBC",
-      "published_at": "2026-11-22T23:49:44Z",
-      "image": null,
-      "score": 14.77
-    },
-    {
-      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
-      "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "title": "HPE just posted its strongest growth ever — but its stock is wavering",
+      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "published_at": "2026-11-22T21:51:00Z",
-      "image": "https://images.mktw.net/im-74462346",
-      "score": 14.52
+      "published_at": "2026-11-23T21:28:00Z",
+      "image": "https://images.mktw.net/im-14671864",
+      "score": 15.94
+    },
+    {
+      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+      "url": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-23T21:24:00Z",
+      "image": "https://images.mktw.net/im-36916244",
+      "score": 15.93
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T21:04:03Z",
+      "image": null,
+      "score": 15.89
+    },
+    {
+      "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+      "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T19:34:38Z",
+      "image": null,
+      "score": 15.7
+    },
+    {
+      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T18:00:47Z",
+      "image": null,
+      "score": 15.5
+    },
+    {
+      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T16:45:31Z",
+      "image": null,
+      "score": 15.35
+    },
+    {
+      "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+      "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T15:22:03Z",
+      "image": null,
+      "score": 15.17
+    },
+    {
+      "title": "The biggest money-making energy trade looks over. What to buy instead",
+      "url": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T12:00:20Z",
+      "image": null,
+      "score": 14.75
+    },
+    {
+      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T10:57:26Z",
+      "image": null,
+      "score": 14.62
     },
     {
       "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
@@ -144,95 +272,7 @@
       "source": "CNBC",
       "published_at": "2026-11-22T17:14:03Z",
       "image": null,
-      "score": 13.94
-    },
-    {
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-22T16:32:00Z",
-      "image": "https://images.mktw.net/im-36389545",
-      "score": 13.86
-    },
-    {
-      "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
-      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
-      "source": "CNBC",
-      "published_at": "2026-11-22T14:00:01Z",
-      "image": null,
-      "score": 13.54
-    },
-    {
-      "title": "The bull market has a new problem. The 'smart money' is selling",
-      "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T14:15:29Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T19:59:03Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Cathie Wood’s Ark Invest was a big buyer of Anthropic as she tells CNBC she’s ‘quite optimistic’",
-      "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T16:18:04Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T21:35:24Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
-      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T14:07:24Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Lagarde says EU funds should take first losses on chip plants, data centers",
-      "url": "https://www.cnbc.com/2026/11/20/lagarde-eu-data-center-funding.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T12:52:15Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Tech wreck drags Anthropic into the red on its second day of trading",
-      "url": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T11:26:37Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T21:06:45Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-      "source": "CNBC",
-      "published_at": "2026-11-20T21:27:51Z",
-      "image": null,
-      "score": 10.0
+      "score": 12.41
     }
   ]
 }
