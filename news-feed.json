@@ -1,14 +1,110 @@
 {
-  "updated_at_utc": "2026-11-23T21:58:35.294915Z",
+  "updated_at_utc": "2026-11-24T05:51:53.428026Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "source": "CNBC",
+      "published_at": "2026-11-24T05:09:34Z",
+      "image": null,
+      "score": 35.91
+    },
+    {
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "source": "CNBC",
+      "published_at": "2026-11-24T03:05:49Z",
+      "image": null,
+      "score": 35.65
+    },
+    {
+      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+      "source": "CNBC",
+      "published_at": "2026-11-24T02:37:39Z",
+      "image": null,
+      "score": 35.6
+    },
+    {
+      "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "source": "CNBC",
+      "published_at": "2026-11-24T02:20:36Z",
+      "image": null,
+      "score": 35.56
+    },
+    {
+      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "source": "CNBC",
+      "published_at": "2026-11-24T02:21:06Z",
+      "image": null,
+      "score": 35.56
+    },
+    {
+      "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
+      "source": "CNBC",
+      "published_at": "2026-11-24T02:20:44Z",
+      "image": null,
+      "score": 35.56
+    },
+    {
+      "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T23:42:17Z",
+      "image": null,
+      "score": 35.23
+    },
+    {
+      "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T23:24:02Z",
+      "image": null,
+      "score": 35.19
+    },
+    {
+      "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "url": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-23T23:18:00Z",
+      "image": "https://images.mktw.net/im-79339834",
+      "score": 35.18
+    },
+    {
+      "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T23:14:34Z",
+      "image": null,
+      "score": 35.17
+    },
     {
       "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
       "source": "CNBC",
-      "published_at": "2026-11-23T21:46:39Z",
+      "published_at": "2026-11-23T22:43:38Z",
       "image": null,
-      "score": 35.98
+      "score": 35.11
+    },
+    {
+      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-23T22:04:00Z",
+      "image": "https://images.mktw.net/im-93028733",
+      "score": 35.03
+    },
+    {
+      "title": "Exclusive CNBC Transcript: See how Trump 'made the deal' to reinstate Huang as Nvidia CEO",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang-reinstatement-cnbc-interview-transcript.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T21:53:49Z",
+      "image": null,
+      "score": 35.0
     },
     {
       "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
@@ -16,7 +112,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-23T21:45:00Z",
       "image": "https://images.mktw.net/im-05512747",
-      "score": 35.97
+      "score": 34.99
     },
     {
       "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
@@ -24,7 +120,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-23T21:36:00Z",
       "image": "https://images.mktw.net/im-93778378",
-      "score": 35.95
+      "score": 34.97
     },
     {
       "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
@@ -32,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-23T21:22:13Z",
       "image": null,
-      "score": 35.92
+      "score": 34.94
     },
     {
       "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
@@ -40,7 +136,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-23T21:19:00Z",
       "image": "https://images.mktw.net/im-63949548",
-      "score": 35.92
+      "score": 34.93
     },
     {
       "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
@@ -48,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-23T21:08:05Z",
       "image": null,
-      "score": 35.89
+      "score": 34.91
     },
     {
       "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
@@ -56,23 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-23T21:02:17Z",
       "image": null,
-      "score": 35.88
-    },
-    {
-      "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
-      "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T20:57:41Z",
-      "image": null,
-      "score": 35.87
-    },
-    {
-      "title": "Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last?",
-      "url": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-23T20:51:00Z",
-      "image": "https://images.mktw.net/im-02379223",
-      "score": 35.86
+      "score": 34.9
     },
     {
       "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
@@ -80,15 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-23T20:22:49Z",
       "image": null,
-      "score": 35.8
-    },
-    {
-      "title": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
-      "url": "https://www.cnbc.com/investingclub/2026/11/23/nvidia-breathes-new-life-into-the-ai-trade-plus-qnity-inks-a-smart-deal-to-get-stronger.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T20:03:25Z",
-      "image": null,
-      "score": 35.76
+      "score": 34.81
     },
     {
       "title": "An options strategy for making even more of your money back in Nvidia",
@@ -96,15 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-23T18:52:46Z",
       "image": null,
-      "score": 35.61
-    },
-    {
-      "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
-      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T17:16:39Z",
-      "image": null,
-      "score": 35.41
+      "score": 34.63
     },
     {
       "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
@@ -112,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-23T15:30:27Z",
       "image": null,
-      "score": 35.19
+      "score": 34.21
     },
     {
       "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
@@ -120,15 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-23T14:40:11Z",
       "image": null,
-      "score": 35.09
-    },
-    {
-      "title": "Wall Street's 'Fear Gauge' just flashed a buy sign",
-      "url": "https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T14:14:28Z",
-      "image": null,
-      "score": 35.03
+      "score": 34.1
     },
     {
       "title": "Futures rally after Wall Street's nightmare week",
@@ -136,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-23T11:10:34Z",
       "image": null,
-      "score": 34.65
+      "score": 33.66
     },
     {
       "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
@@ -144,7 +200,7 @@
       "source": "CNBC",
       "published_at": "2026-11-22T12:13:56Z",
       "image": null,
-      "score": 31.78
+      "score": 30.8
     },
     {
       "title": "The Nasdaq is in freefall. Here's one stock to look at",
@@ -152,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-22T12:10:39Z",
       "image": null,
-      "score": 31.78
+      "score": 30.79
     },
     {
       "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
@@ -163,20 +219,44 @@
       "score": 30.0
     },
     {
-      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
       "source": "CNBC",
-      "published_at": "2026-11-20T22:59:33Z",
+      "published_at": "2026-11-24T05:07:16Z",
       "image": null,
-      "score": 30.0
+      "score": 15.91
     },
     {
-      "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
       "source": "CNBC",
-      "published_at": "2026-11-20T22:08:41Z",
+      "published_at": "2026-11-24T05:05:08Z",
       "image": null,
-      "score": 30.0
+      "score": 15.9
+    },
+    {
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-24T01:01:00Z",
+      "image": "https://images.mktw.net/im-14671864",
+      "score": 15.39
+    },
+    {
+      "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+      "url": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+      "source": "CNBC",
+      "published_at": "2026-11-24T00:56:10Z",
+      "image": null,
+      "score": 15.38
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+      "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+      "source": "CNBC",
+      "published_at": "2026-11-23T23:00:01Z",
+      "image": null,
+      "score": 15.14
     },
     {
       "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
@@ -184,7 +264,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-23T21:51:00Z",
       "image": "https://images.mktw.net/im-11808731",
-      "score": 15.98
+      "score": 15.0
     },
     {
       "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
@@ -192,15 +272,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-23T21:33:00Z",
       "image": "https://images.mktw.net/im-71032583",
-      "score": 15.95
-    },
-    {
-      "title": "HPE just posted its strongest growth ever — but its stock is wavering",
-      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-23T21:28:00Z",
-      "image": "https://images.mktw.net/im-14671864",
-      "score": 15.94
+      "score": 14.96
     },
     {
       "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
@@ -208,7 +280,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-23T21:24:00Z",
       "image": "https://images.mktw.net/im-36916244",
-      "score": 15.93
+      "score": 14.94
     },
     {
       "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
@@ -216,63 +288,7 @@
       "source": "CNBC",
       "published_at": "2026-11-23T21:04:03Z",
       "image": null,
-      "score": 15.89
-    },
-    {
-      "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
-      "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T19:34:38Z",
-      "image": null,
-      "score": 15.7
-    },
-    {
-      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T18:00:47Z",
-      "image": null,
-      "score": 15.5
-    },
-    {
-      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T16:45:31Z",
-      "image": null,
-      "score": 15.35
-    },
-    {
-      "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
-      "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T15:22:03Z",
-      "image": null,
-      "score": 15.17
-    },
-    {
-      "title": "The biggest money-making energy trade looks over. What to buy instead",
-      "url": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T12:00:20Z",
-      "image": null,
-      "score": 14.75
-    },
-    {
-      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
-      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-      "source": "CNBC",
-      "published_at": "2026-11-23T10:57:26Z",
-      "image": null,
-      "score": 14.62
-    },
-    {
-      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "source": "CNBC",
-      "published_at": "2026-11-22T17:14:03Z",
-      "image": null,
-      "score": 12.41
+      "score": 14.9
     }
   ]
 }
