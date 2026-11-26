@@ -1,14 +1,54 @@
 {
-  "updated_at_utc": "2026-11-26T02:45:15.511753Z",
+  "updated_at_utc": "2026-11-26T12:10:52.253466Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "source": "CNBC",
+      "published_at": "2026-11-26T11:44:19Z",
+      "image": null,
+      "score": 35.94
+    },
+    {
+      "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+      "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-26T10:37:00Z",
+      "image": "https://images.mktw.net/im-44727230",
+      "score": 35.8
+    },
+    {
+      "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+      "url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-26T10:11:00Z",
+      "image": "https://images.mktw.net/im-59635589",
+      "score": 35.75
+    },
+    {
+      "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+      "source": "CNBC",
+      "published_at": "2026-11-26T04:12:18Z",
+      "image": null,
+      "score": 35.0
+    },
+    {
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "source": "CNBC",
+      "published_at": "2026-11-26T03:19:44Z",
+      "image": null,
+      "score": 34.89
+    },
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
       "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
       "source": "CNBC",
-      "published_at": "2026-11-26T02:15:51Z",
+      "published_at": "2026-11-26T03:13:43Z",
       "image": null,
-      "score": 35.94
+      "score": 34.88
     },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -16,7 +56,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-26T01:15:00Z",
       "image": "https://images.mktw.net/im-58425830",
-      "score": 35.81
+      "score": 34.63
     },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -24,15 +64,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-25T22:45:00Z",
       "image": "https://images.mktw.net/im-78896707",
-      "score": 35.5
-    },
-    {
-      "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-25T22:11:00Z",
-      "image": "https://images.mktw.net/im-31262008",
-      "score": 35.43
+      "score": 34.32
     },
     {
       "title": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
@@ -40,23 +72,7 @@
       "source": "CNBC",
       "published_at": "2026-11-25T22:04:58Z",
       "image": null,
-      "score": 35.42
-    },
-    {
-      "title": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-25T21:36:00Z",
-      "image": "https://images.mktw.net/im-59545420",
-      "score": 35.36
-    },
-    {
-      "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-      "source": "CNBC",
-      "published_at": "2026-11-25T21:02:05Z",
-      "image": null,
-      "score": 35.29
+      "score": 34.24
     },
     {
       "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
@@ -64,15 +80,7 @@
       "source": "CNBC",
       "published_at": "2026-11-25T17:28:24Z",
       "image": null,
-      "score": 34.84
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "source": "CNBC",
-      "published_at": "2026-11-25T14:29:50Z",
-      "image": null,
-      "score": 34.47
+      "score": 33.66
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -80,23 +88,15 @@
       "source": "CNBC",
       "published_at": "2026-11-25T14:29:00Z",
       "image": null,
-      "score": 34.47
+      "score": 33.29
     },
     {
-      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
       "source": "CNBC",
-      "published_at": "2026-11-25T14:18:45Z",
+      "published_at": "2026-11-25T14:29:50Z",
       "image": null,
-      "score": 34.44
-    },
-    {
-      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-      "source": "CNBC",
-      "published_at": "2026-11-25T12:26:41Z",
-      "image": null,
-      "score": 34.21
+      "score": 33.29
     },
     {
       "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
@@ -104,7 +104,7 @@
       "source": "CNBC",
       "published_at": "2026-11-25T06:29:46Z",
       "image": null,
-      "score": 33.47
+      "score": 32.29
     },
     {
       "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
@@ -112,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-24T22:07:45Z",
       "image": null,
-      "score": 32.42
+      "score": 31.24
     },
     {
       "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
@@ -120,15 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-24T21:52:05Z",
       "image": null,
-      "score": 32.39
-    },
-    {
-      "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "source": "CNBC",
-      "published_at": "2026-11-24T21:15:23Z",
-      "image": null,
-      "score": 32.31
+      "score": 31.21
     },
     {
       "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -136,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-24T17:51:45Z",
       "image": null,
-      "score": 31.89
+      "score": 30.71
     },
     {
       "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
@@ -144,23 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-24T15:03:36Z",
       "image": null,
-      "score": 31.54
-    },
-    {
-      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-      "source": "CNBC",
-      "published_at": "2026-11-24T13:31:29Z",
-      "image": null,
-      "score": 31.35
-    },
-    {
-      "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-      "source": "CNBC",
-      "published_at": "2026-11-24T10:56:56Z",
-      "image": null,
-      "score": 31.02
+      "score": 30.36
     },
     {
       "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
@@ -171,20 +147,52 @@
       "score": 30.0
     },
     {
-      "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+      "url": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
       "source": "CNBC",
-      "published_at": "2026-11-26T01:45:52Z",
+      "published_at": "2026-11-26T11:17:39Z",
       "image": null,
-      "score": 15.88
+      "score": 15.89
     },
     {
-      "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
-      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
       "source": "CNBC",
-      "published_at": "2026-11-26T01:34:58Z",
+      "published_at": "2026-11-26T09:51:40Z",
       "image": null,
-      "score": 15.85
+      "score": 15.71
+    },
+    {
+      "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
+      "url": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
+      "source": "CNBC",
+      "published_at": "2026-11-26T08:59:11Z",
+      "image": null,
+      "score": 15.6
+    },
+    {
+      "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+      "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+      "source": "CNBC",
+      "published_at": "2026-11-26T07:23:42Z",
+      "image": null,
+      "score": 15.4
+    },
+    {
+      "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-26T07:16:00Z",
+      "image": "https://images.mktw.net/im-62800122",
+      "score": 15.39
+    },
+    {
+      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+      "source": "CNBC",
+      "published_at": "2026-11-26T03:09:47Z",
+      "image": null,
+      "score": 14.87
     },
     {
       "title": "Why this stock-market selloff is probably going to get worse before it gets better",
@@ -192,7 +200,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-26T00:33:00Z",
       "image": "https://images.mktw.net/im-73383573",
-      "score": 15.72
+      "score": 14.55
     },
     {
       "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
@@ -200,7 +208,7 @@
       "source": "CNBC",
       "published_at": "2026-11-26T00:12:16Z",
       "image": null,
-      "score": 15.68
+      "score": 14.5
     },
     {
       "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
@@ -208,7 +216,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-25T22:16:00Z",
       "image": "https://images.mktw.net/im-37217183",
-      "score": 15.44
+      "score": 14.26
     },
     {
       "title": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
@@ -216,15 +224,7 @@
       "source": "CNBC",
       "published_at": "2026-11-25T21:04:57Z",
       "image": null,
-      "score": 15.29
-    },
-    {
-      "title": "We're buying more of a stock down big from its July highs",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
-      "source": "CNBC",
-      "published_at": "2026-11-25T19:55:18Z",
-      "image": null,
-      "score": 15.15
+      "score": 14.11
     },
     {
       "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
@@ -232,7 +232,7 @@
       "source": "CNBC",
       "published_at": "2026-11-25T19:11:53Z",
       "image": null,
-      "score": 15.06
+      "score": 13.88
     },
     {
       "title": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
@@ -240,15 +240,7 @@
       "source": "CNBC",
       "published_at": "2026-11-25T16:05:25Z",
       "image": null,
-      "score": 14.67
-    },
-    {
-      "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
-      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
-      "source": "CNBC",
-      "published_at": "2026-11-25T16:00:45Z",
-      "image": null,
-      "score": 14.66
+      "score": 13.49
     },
     {
       "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
@@ -256,7 +248,7 @@
       "source": "CNBC",
       "published_at": "2026-11-25T15:55:40Z",
       "image": null,
-      "score": 14.65
+      "score": 13.47
     },
     {
       "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
@@ -264,7 +256,7 @@
       "source": "CNBC",
       "published_at": "2026-11-25T13:20:34Z",
       "image": null,
-      "score": 14.32
+      "score": 13.15
     },
     {
       "title": "Futures sink further into the red as tech worries resurge",
@@ -272,15 +264,7 @@
       "source": "CNBC",
       "published_at": "2026-11-25T11:43:37Z",
       "image": null,
-      "score": 14.12
-    },
-    {
-      "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
-      "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
-      "source": "CNBC",
-      "published_at": "2026-11-25T09:18:37Z",
-      "image": null,
-      "score": 13.82
+      "score": 12.94
     },
     {
       "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
@@ -288,7 +272,23 @@
       "source": "CNBC",
       "published_at": "2026-11-25T06:09:44Z",
       "image": null,
-      "score": 13.43
+      "score": 12.25
+    },
+    {
+      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "source": "CNBC",
+      "published_at": "2026-11-25T04:06:01Z",
+      "image": null,
+      "score": 11.99
+    },
+    {
+      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "source": "CNBC",
+      "published_at": "2026-11-25T02:43:33Z",
+      "image": null,
+      "score": 11.82
     }
   ]
 }
