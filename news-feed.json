@@ -1,14 +1,22 @@
 {
-  "updated_at_utc": "2026-11-27T22:37:03.957759Z",
+  "updated_at_utc": "2026-11-28T04:12:13.849707Z",
   "selection": "Editorial relevance and recency; not publisher view counts.",
   "articles": [
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "2026-11-27T23:30:00Z",
+      "image": "https://images.mktw.net/im-78896707",
+      "score": 35.41
+    },
     {
       "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
       "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
       "source": "CNBC",
       "published_at": "2026-11-27T22:00:57Z",
       "image": null,
-      "score": 35.92
+      "score": 35.23
     },
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -16,15 +24,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-27T20:16:00Z",
       "image": "https://images.mktw.net/im-70107432",
-      "score": 35.71
-    },
-    {
-      "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
-      "url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_at": "2026-11-27T15:01:00Z",
-      "image": "https://images.mktw.net/im-21556022",
-      "score": 35.05
+      "score": 35.01
     },
     {
       "title": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
@@ -32,7 +32,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T14:47:33Z",
       "image": null,
-      "score": 35.02
+      "score": 34.32
     },
     {
       "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
@@ -40,7 +40,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T13:21:56Z",
       "image": null,
-      "score": 34.84
+      "score": 34.15
     },
     {
       "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
@@ -48,7 +48,7 @@
       "source": "CNBC",
       "published_at": "2026-11-26T17:04:54Z",
       "image": null,
-      "score": 32.31
+      "score": 31.61
     },
     {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
@@ -56,7 +56,7 @@
       "source": "CNBC",
       "published_at": "2026-11-26T03:19:44Z",
       "image": null,
-      "score": 30.59
+      "score": 30.0
     },
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -64,7 +64,7 @@
       "source": "CNBC",
       "published_at": "2026-11-26T03:13:43Z",
       "image": null,
-      "score": 30.58
+      "score": 30.0
     },
     {
       "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
@@ -96,7 +96,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T18:46:20Z",
       "image": null,
-      "score": 15.52
+      "score": 14.82
     },
     {
       "title": "The warnings behind this week’s stock-market rally",
@@ -104,7 +104,7 @@
       "source": "MarketWatch",
       "published_at": "2026-11-27T18:40:00Z",
       "image": "https://images.mktw.net/im-85185426",
-      "score": 15.51
+      "score": 14.81
     },
     {
       "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -112,7 +112,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T18:24:06Z",
       "image": null,
-      "score": 15.47
+      "score": 14.77
     },
     {
       "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
@@ -120,7 +120,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T16:43:14Z",
       "image": null,
-      "score": 15.26
+      "score": 14.56
     },
     {
       "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
@@ -128,7 +128,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T14:52:40Z",
       "image": null,
-      "score": 15.03
+      "score": 14.33
     },
     {
       "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
@@ -136,7 +136,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T12:00:22Z",
       "image": null,
-      "score": 14.67
+      "score": 13.98
     },
     {
       "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
@@ -144,7 +144,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T11:55:41Z",
       "image": null,
-      "score": 14.66
+      "score": 13.97
     },
     {
       "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
@@ -152,7 +152,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T10:13:44Z",
       "image": null,
-      "score": 14.45
+      "score": 13.75
     },
     {
       "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
@@ -160,7 +160,7 @@
       "source": "CNBC",
       "published_at": "2026-11-27T06:50:38Z",
       "image": null,
-      "score": 14.03
+      "score": 13.33
     },
     {
       "title": "Semiconductor chips are the new oil. Here's why",
@@ -168,7 +168,7 @@
       "source": "CNBC",
       "published_at": "2026-11-26T17:52:15Z",
       "image": null,
-      "score": 12.41
+      "score": 11.71
     },
     {
       "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
@@ -176,7 +176,7 @@
       "source": "CNBC",
       "published_at": "2026-11-26T12:22:25Z",
       "image": null,
-      "score": 11.72
+      "score": 11.02
     },
     {
       "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
@@ -184,7 +184,7 @@
       "source": "CNBC",
       "published_at": "2026-11-26T11:17:39Z",
       "image": null,
-      "score": 11.58
+      "score": 10.89
     },
     {
       "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
@@ -192,7 +192,7 @@
       "source": "CNBC",
       "published_at": "2026-11-26T08:59:11Z",
       "image": null,
-      "score": 11.3
+      "score": 10.6
     },
     {
       "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
@@ -231,22 +231,6 @@
       "url": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
       "source": "CNBC",
       "published_at": "2026-11-25T06:09:44Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-      "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-      "source": "CNBC",
-      "published_at": "2026-11-25T02:43:33Z",
-      "image": null,
-      "score": 10.0
-    },
-    {
-      "title": "Jim Cramer says Tuesday's market pullback is an encouraging sign. Here's why",
-      "url": "https://www.cnbc.com/2026/11/24/jim-cramer-market-pullback.html",
-      "source": "CNBC",
-      "published_at": "2026-11-24T23:23:34Z",
       "image": null,
       "score": 10.0
     },
